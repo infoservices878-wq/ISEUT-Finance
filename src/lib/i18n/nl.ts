@@ -848,7 +848,7 @@ export const nl = {
           ],
           [
             "Hoofdkantoor",
-            "31 AVENUE TRUDAINE 75009 PARIJS"
+            "31 AVENUE TRUDAINE 75009 PARIS"
           ],
           [
             "SIREN",
@@ -860,7 +860,7 @@ export const nl = {
           ],
           [
             "RCS",
-            "524 581 873 Handelsregister Colmar"
+            "824 922 561 R.C.S. Paris"
           ],
           [
             "ORIAS-nummer",
@@ -869,10 +869,6 @@ export const nl = {
           [
             "Toezichthoudende autoriteit",
             "ACPR – Bank van Frankrijk"
-          ],
-          [
-            "Voorzitter van SAS",
-            "Dewitte Tristan"
           ],
           [
             "Voorzitter van SAS",

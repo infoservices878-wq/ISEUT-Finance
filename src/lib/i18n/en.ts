@@ -848,7 +848,7 @@ export const en = {
           ],
           [
             "Headquarters",
-            "31 Avenue Trudaigne, 75009 Paris"
+            "31 Avenue Trudaine, 75009 Paris"
           ],
           [
             "SIREN",
@@ -860,7 +860,7 @@ export const en = {
           ],
           [
             "RCS",
-            "524 581 873 Colmar Commercial Register"
+            "824 922 561 R.C.S. Paris"
           ],
           [
             "ORIAS No.",
