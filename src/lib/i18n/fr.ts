@@ -195,10 +195,10 @@ export const fr = {
 
   // ── Mission Section ──────────────────────────────────────────────────────────
   mission: {
-    badge:      "Fab Finance & Vous",
+    badge:      "ISEUT Finance & Vous",
     title:      "Le financement qui",
     titleHighlight: "fait la différence",
-    text1:      "Chez Fab Finance, nous mettons notre expertise au service de vos projets de vie. Prêt personnel, crédit consommation, prêt auto ou rachat de crédit : des solutions simples, transparentes et adaptées à chaque situation.",
+    text1:      "Chez ISEUT Finance, nous mettons notre expertise au service de vos projets de vie. Prêt personnel, crédit consommation, prêt auto ou rachat de crédit : des solutions simples, transparentes et adaptées à chaque situation.",
     text2:      "Notre mission est de rendre le financement plus accessible grâce à des outils digitaux innovants et à un accompagnement humain à chaque étape.",
     cta:        "Découvrir notre mission",
     stats: {
@@ -219,7 +219,7 @@ export const fr = {
   whyChooseUs: {
     badge:    "Nos engagements",
     title:    "Pourquoi choisir",
-    titleHighlight: "Fab Finance ?",
+    titleHighlight: "ISEUT Finance ?",
     subtitle: "Technologie et expertise humaine réunies pour une expérience de financement simple, rapide et fiable.",
     items: [
       {
@@ -260,7 +260,7 @@ export const fr = {
     badge:    "Preuve sociale",
     title:    "Ils nous font",
     titleHighlight: "confiance",
-    subtitle: "Des milliers de clients font confiance à Fab Finance pour financer leurs projets personnels et professionnels.",
+    subtitle: "Des milliers de clients font confiance à ISEUT Finance pour financer leurs projets personnels et professionnels.",
     certifiedBy: "Reconnu et certifié par",
     stats: [
       { value: "+200 000", label: "projets financés"     },
@@ -284,7 +284,7 @@ export const fr = {
       {
         name: "Claire Dupont",
         role: "Travaux · 25 000€",
-        text: "Service client vraiment professionnel et disponible. Ils m'ont accompagnée de A à Z pour financer ma rénovation. Merci Fab Finance !",
+        text: "Service client vraiment professionnel et disponible. Ils m'ont accompagnée de A à Z pour financer ma rénovation. Merci ISEUT Finance !",
       },
     ],
   },
@@ -316,7 +316,7 @@ export const fr = {
       },
       {
         q: "Y a-t-il des frais de dossier ?",
-        a: "Oui. Fab Finance facture des frais de dossier qui sont très faibles.  La simulation est gratuite et sans engagement. Vous ne payez que les intérêts définis dans votre contrat.",
+        a: "Oui. ISEUT Finance facture des frais de dossier qui sont très faibles.  La simulation est gratuite et sans engagement. Vous ne payez que les intérêts définis dans votre contrat.",
       },
       {
         q: "Quel est le montant maximum que je peux emprunter ?",
@@ -340,7 +340,7 @@ export const fr = {
       secure:   "100% sécurisé",
       clients:  "+200 000 clients satisfaits",
     },
-    legal: "Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager. Fab Finance — ORIAS n° 14 001 728.",
+    legal: "Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager. ISEUT Finance — ORIAS n° 14 001 728.",
   },
 
   // ── Simulator page ───────────────────────────────────────────────────────────
@@ -438,9 +438,9 @@ export const fr = {
     title:     "Comment obtenir votre prêt ?",
     subtitle:  "De la simulation au versement des fonds, découvrez chaque étape.",
     steps:     "6 étapes simples",
-    journey:   "Le parcours Fab Finance",
+    journey:   "Le parcours ISEUT Finance",
     guarantee: "Nos engagements",
-    whyUs:     "Pourquoi choisir Fab Finance ?",
+    whyUs:     "Pourquoi choisir ISEUT Finance ?",
     cta:       "Démarrer ma simulation",
     ctaSub:    "Gratuit · Sans engagement · Réponse en 2 minutes",
 
@@ -469,7 +469,7 @@ export const fr = {
       },
       {
         title: "Étude de votre dossier", subtitle: "Réponse sous 24h",
-        desc: "Un conseiller Fab Finance dédié analyse votre dossier et vous contacte par téléphone ou WhatsApp pour affiner votre offre et répondre à toutes vos questions.",
+        desc: "Un conseiller ISEUT Finance dédié analyse votre dossier et vous contacte par téléphone ou WhatsApp pour affiner votre offre et répondre à toutes vos questions.",
         details: ["Conseiller personnel attitré", "Contact par téléphone ou WhatsApp", "Analyse humaine, pas automatisée"],
       },
       {
@@ -508,7 +508,7 @@ export const fr = {
       { q: "Combien de temps dure le processus complet ?", a: "De la simulation au versement des fonds, le processus prend généralement entre 5 et 10 jours ouvrés, en tenant compte du délai légal de rétractation de 14 jours. En cas d'urgence, contactez-nous directement par WhatsApp." },
       { q: "Quels documents dois-je préparer ?", a: "Pièce d'identité, 3 derniers bulletins de salaire (ou justificatifs de revenus), justificatif de domicile récent et RIB. Tout se transmet en ligne, en quelques clics." },
       { q: "Ma demande engage-t-elle à quoi que ce soit ?", a: "Non. La simulation et la demande de dossier sont totalement gratuites et sans engagement. Vous n'êtes engagé qu'après avoir signé votre contrat, et vous disposez encore d'un délai de rétractation de 14 jours." },
-      { q: "Puis-je suivre l'avancement de mon dossier ?", a: "Oui. Votre conseiller Fab Finance vous tient informé à chaque étape par téléphone, email ou WhatsApp. Vous pouvez le contacter directement à tout moment." },
+      { q: "Puis-je suivre l'avancement de mon dossier ?", a: "Oui. Votre conseiller ISEUT Finance vous tient informé à chaque étape par téléphone, email ou WhatsApp. Vous pouvez le contacter directement à tout moment." },
     ],
     finalCta: {
       badge:    "Prêt à commencer ?",
@@ -525,7 +525,7 @@ export const fr = {
       badge:          "Fondée en 2016 · Paris",
       title:          "Réinventer le crédit",
       titleHighlight: "pour tous",
-      subtitle:       "Fab Finance s'est donnée pour mission de rendre le financement accessible, transparent et équitable. Fini la complexité bancaire traditionnelle.",
+      subtitle:       "ISEUT Finance s'est donnée pour mission de rendre le financement accessible, transparent et équitable. Fini la complexité bancaire traditionnelle.",
     },
     stats: [
       { label: "Clients satisfaits",       sub: "depuis 2016"           },
@@ -565,7 +565,7 @@ export const fr = {
       eyebrow: "Notre histoire",
       title:   "8 ans d'innovation",
       events: [
-        "Fondation de Fab Finance à Paris avec une mission claire : démocratiser le crédit.",
+        "Fondation de ISEUT Finance à Paris avec une mission claire : démocratiser le crédit.",
         "Lancement du simulateur en ligne — réponse de principe en moins de 2 minutes.",
         "Franchissement du cap des 100 000 clients et obtention de l'agrément ORIAS.",
         "Expansion européenne et lancement des prêts professionnels et étudiants.",
@@ -574,7 +574,7 @@ export const fr = {
     },
     finalCta: {
       title:    "Rejoignez l'aventure",
-      subtitle: "Plus d'un million de clients nous font déjà confiance. À votre tour de concrétiser vos projets avec Fab Finance.",
+      subtitle: "Plus d'un million de clients nous font déjà confiance. À votre tour de concrétiser vos projets avec ISEUT Finance.",
     },
   },
 
@@ -632,7 +632,7 @@ export const fr = {
 
   // ── Footer ───────────────────────────────────────────────────────────────────
   footer: {
-    tagline: "FabFinance vous accompagne dans tous vos projets de vie avec des solutions de financement simples, transparentes et adaptées.",
+    tagline: "ISEUT Finance vous accompagne dans tous vos projets de vie avec des solutions de financement simples, transparentes et adaptées.",
     ctaTitle:   "Prêt à financer votre projet ?",
     ctaSub:     "Simulation gratuite · Réponse en 2 minutes · Sans engagement",
     ctaButton:  "Simuler mon prêt",
@@ -653,64 +653,65 @@ export const fr = {
    // ── Mentions légales ────────────────────────────────────────────────────────
   mentionsLegales: {
     pageTitle:    "Mentions légales",
-    pageSubtitle: "Informations légales et réglementaires relatives à Fab Finance et à l'utilisation de ce site.",
+    pageSubtitle: "Informations légales et réglementaires relatives à ISEUT Finance et à l'utilisation de ce site.",
     lastUpdate:   "Dernière mise à jour :",
     summary:      "Sommaire",
     sections: [
       {
         title: "Éditeur du site",
         rows: [
-          ["Raison sociale",      "Fab Finance"],
+          ["Raison sociale",      "ISEUT Finance"],
           ["Forme juridique",     "Société par Actions Simplifiée (SAS)"],
           ["Capital social",      "50 000 €"],
-          ["Siège social",        "52 RUE DU DOCTEUR SULTZER 67140 BARR"],
-          ["SIREN",               "524581873"],
-          ["RCS",                 "524 581 873 R.C.S. Colmar"],
+          ["Siège social",        "31 AVENUE TRUDAINE 75009 PARIS"],
+          ["SIREN",               "824922561"],
+          ["Numéro de TVA",      "FR02824922561"],
+          ["RCS",                 "824 922 561 R.C.S. Paris"],
           ["N° ORIAS",            "14 001 728 (www.orias.fr)"],
           ["Autorité de tutelle", "ACPR – Banque de France"],
-          ["Président de SAS",    "TOWAE Fabienne"],
+          ["Président de SAS",    "Dewitte Tristan"],
         ],
       },
       {
         title: "Hébergement",
         rows: [
-          ["Hébergeur", "Vercel Inc."],
-          ["Adresse",   "440 N Barranca Ave, Covina, CA"],
-          ["Site web",  "www.vercel.com"],
+          ["Hébergeur", "Hostinger"],
+          ["Adresse",   "34, rue Švitrigailos, 03230, Vilnius, Lituanie"],
+          ["Site web",  "www.hostinger.com"],
         ],
       },
       {
         title: "Nous contacter",
         rows: [
-          ["Email",     "contact@fab-financeaide.com"],
-          ["Téléphone", "+33 753 959 516 (appel gratuit)"],
-          ["Courrier",  "52 RUE DU DOCTEUR SULTZER 67140 BARR"],
+          ["Email",     "contact@iseutfinance.com"],
+          ["Téléphone", "+33 7 76 41 67 05 (appel gratuit)"],
+          ["Courrier",  "31 AVENUE TRUDAINE 75009 PARIS"],
           ["Horaires",  "Lun – Ven, 9h – 18h"],
         ],
       },
       {
         title: "Activité réglementée",
         paragraphs: [
-          "Fab Finance SAS est immatriculée en qualité d'Intermédiaire en Opérations de Banque et en Services de Paiement (IOBSP) au registre de l'ORIAS sous le numéro 14 001 728, consultable sur www.orias.fr.",
-          "En cette qualité, Fab Finance est soumise au contrôle de l'Autorité de Contrôle Prudentiel et de Résolution (ACPR), organe de supervision de la Banque de France, situé 4 Place de Budapest, CS 92459, 75436 Paris Cedex 09.",
-          "Fab Finance est couverte par une assurance de responsabilité civile professionnelle et dispose d'une garantie financière conformément aux dispositions des articles L.519-1 et suivants du Code monétaire et financier.",
+          "ISEUT Finance SAS est immatriculée en qualité d'Intermédiaire en Opérations de Banque et en Services de Paiement (IOBSP) au registre de l'ORIAS sous le numéro 14 001 728, consultable sur www.orias.fr.",
+          "En cette qualité, ISEUT Finance est soumise au contrôle de l'Autorité de Contrôle Prudentiel et de Résolution (ACPR), organe de supervision de la Banque de France, situé 4 Place de Budapest, CS 92459, 75436 Paris Cedex 09.",
+          "ISEUT Finance est couverte par une assurance de responsabilité civile professionnelle et dispose d'une garantie financière conformément aux dispositions des articles L.519-1 et suivants du Code monétaire et financier.",
         ],
       },
       {
         title: "Propriété intellectuelle",
         paragraphs: [
-          "L'ensemble des éléments constituant le site Fab Finance (textes, graphismes, logiciels, photographies, images, sons, plans, noms, logos, marques, créations et œuvres protégeables diverses) sont la propriété exclusive de Fab Finance SAS ou de ses partenaires.",
-          "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Fab Finance SAS.",
+          "L'ensemble des éléments constituant le site ISEUT Finance (textes, graphismes, logiciels, photographies, images, sons, plans, noms, logos, marques, créations et œuvres protégeables diverses) sont la propriété exclusive de ISEUT Finance SAS ou de ses partenaires.",
+          "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de ISEUT Finance SAS.",
           "Toute exploitation non autorisée du site ou de l'un quelconque des éléments qu'il contient sera considérée comme constitutive d'une contrefaçon et poursuivie conformément aux dispositions des articles L.335-2 et suivants du Code de Propriété Intellectuelle.",
         ],
       },
       {
         title: "Limitation de responsabilité",
         paragraphs: [
-          "Fab Finance s'efforce d'assurer au mieux de ses possibilités l'exactitude et la mise à jour des informations diffusées sur ce site. Toutefois, Fab Finance ne peut garantir l'exactitude, la précision ou l'exhaustivité des informations mises à disposition sur ce site.",
+          "ISEUT Finance s'efforce d'assurer au mieux de ses possibilités l'exactitude et la mise à jour des informations diffusées sur ce site. Toutefois, ISEUT Finance ne peut garantir l'exactitude, la précision ou l'exhaustivité des informations mises à disposition sur ce site.",
           "Les simulations effectuées sur ce site sont fournies à titre purement indicatif et n'ont aucune valeur contractuelle. Elles ne constituent pas une offre de crédit. Toute décision d'octroi de crédit est prise après étude complète du dossier par nos conseillers.",
-          "Fab Finance décline toute responsabilité pour tout dommage résultant d'une intrusion frauduleuse d'un tiers ayant entraîné une modification des informations mises à disposition sur le site.",
-          "Ce site peut contenir des liens hypertextes renvoyant vers d'autres sites internet sur lesquels Fab Finance n'exerce aucun contrôle. Fab Finance décline toute responsabilité quant au contenu de ces sites.",
+          "ISEUT Finance décline toute responsabilité pour tout dommage résultant d'une intrusion frauduleuse d'un tiers ayant entraîné une modification des informations mises à disposition sur le site.",
+          "Ce site peut contenir des liens hypertextes renvoyant vers d'autres sites internet sur lesquels ISEUT Finance n'exerce aucun contrôle. ISEUT Finance décline toute responsabilité quant au contenu de ces sites.",
         ],
       },
       {
@@ -735,7 +736,7 @@ export const fr = {
         title: "Droit applicable et juridiction",
         paragraphs: [
           "Le présent site et ses mentions légales sont régis par le droit français. En cas de litige, et après tentative de résolution amiable, les tribunaux français seront seuls compétents.",
-          "Conformément à l'article L.612-1 du Code de la consommation, tout consommateur a le droit de recourir gratuitement à un médiateur de la consommation en vue de la résolution amiable du litige qui l'oppose à un professionnel. Fab Finance adhère au service de médiation.",
+          "Conformément à l'article L.612-1 du Code de la consommation, tout consommateur a le droit de recourir gratuitement à un médiateur de la consommation en vue de la résolution amiable du litige qui l'oppose à un professionnel. ISEUT Finance adhère au service de médiation.",
           "Vous pouvez également recourir à la plateforme européenne de règlement en ligne des litiges accessible à l'adresse : https://ec.europa.eu/consumers/odr",
         ],
       },
@@ -748,15 +749,15 @@ export const fr = {
     badge:          "RGPD · Loi Informatique et Libertés",
     pageSubtitle:   "Comment nous collectons, utilisons et protégeons vos données personnelles.",
     rgpdBoxTitle:   "Vos données sont protégées",
-    rgpdBoxText:    "Fab Finance est conforme au Règlement Général sur la Protection des Données (RGPD – UE 2016/679). Vos données ne sont jamais vendues et sont traitées avec le plus grand soin.",
+    rgpdBoxText:    "ISEUT Finance est conforme au Règlement Général sur la Protection des Données (RGPD – UE 2016/679). Vos données ne sont jamais vendues et sont traitées avec le plus grand soin.",
     footerText:     "Pour exercer vos droits ou pour toute question relative à cette politique, contactez notre DPO à",
     modifDateLabel: "Date de la dernière mise à jour :",
     sections: [
       {
         title: "Responsable du traitement",
         paragraphs: [
-          "Fab Finance SAS, immatriculée au RCS de Paris sous le numéro 524581873, dont le siège social est situé 52 RUE DU DOCTEUR SULTZER 67140 BARR, est responsable du traitement de vos données personnelles collectées via ce site.",
-          "Notre Délégué à la Protection des Données (DPO) est joignable à l'adresse : dpo@fab-financeaide.com",
+          "ISEUT Finance SAS, immatriculée au RCS de Paris sous le numéro 824922561, dont le siège social est situé 31 AVENUE TRUDAINE 75009 PARIS, est responsable du traitement de vos données personnelles collectées via ce site.",
+          "Notre Délégué à la Protection des Données (DPO) est joignable à l'adresse : dpo@iseutfinance.com",
         ],
       },
       {
@@ -788,11 +789,11 @@ export const fr = {
       {
         title: "Destinataires des données",
         paragraphs: [
-          "Vos données sont traitées exclusivement par Fab Finance SAS et ses sous-traitants techniques, dans le strict cadre de l'exécution du service. Elles ne sont jamais vendues à des tiers.",
+          "Vos données sont traitées exclusivement par ISEUT Finance SAS et ses sous-traitants techniques, dans le strict cadre de l'exécution du service. Elles ne sont jamais vendues à des tiers.",
           "Les sous-traitants auxquels nous faisons appel sont contractuellement tenus de respecter la confidentialité et la sécurité de vos données, conformément à l'article 28 du RGPD.",
         ],
         rows: [
-          ["Hébergement",    "Vercel Inc. (serveurs UE)"],
+          ["Hébergement",    "Hostinger (serveurs UE)"],
           ["Envoi d'emails", "EmailJS / Resend (chiffrement TLS)"],
           ["Analytique",     "Données anonymisées, sans transfert hors UE"],
         ],
@@ -815,7 +816,7 @@ export const fr = {
       },
       {
         title: "Sécurité des données",
-        intro: "Fab Finance met en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos données contre toute perte, destruction, altération, accès ou divulgation non autorisés.",
+        intro: "ISEUT Finance met en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos données contre toute perte, destruction, altération, accès ou divulgation non autorisés.",
         rows: [
           ["Chiffrement", "SSL/TLS 256-bit sur toutes les communications"],
           ["Accès",       "Contrôle strict des accès, authentification forte"],
@@ -837,7 +838,7 @@ export const fr = {
           ["Retrait du consentement", "Retirer votre consentement à tout moment"],
         ],
         paragraphs2: [
-          "Pour exercer vos droits, contactez notre DPO par email à dpo@fab-financeaide.com, en joignant une copie de votre pièce d'identité. Nous répondrons dans un délai d'un mois à compter de la réception de votre demande.",
+          "Pour exercer vos droits, contactez notre DPO par email à dpo@iseutfinance.com, en joignant une copie de votre pièce d'identité. Nous répondrons dans un délai d'un mois à compter de la réception de votre demande.",
           "Si vous estimez que vos droits ne sont pas respectés, vous pouvez introduire une réclamation auprès de la CNIL : www.cnil.fr ou 3 Place de Fontenoy, TSA 80715, 75334 Paris Cedex 07.",
         ],
       },
@@ -855,7 +856,7 @@ export const fr = {
       {
         title: "Modifications de la politique",
         paragraphs: [
-          "Fab Finance se réserve le droit de modifier la présente politique de confidentialité à tout moment, notamment pour se conformer à toute évolution légale, jurisprudentielle, éditoriale ou technique.",
+          "ISEUT Finance se réserve le droit de modifier la présente politique de confidentialité à tout moment, notamment pour se conformer à toute évolution légale, jurisprudentielle, éditoriale ou technique.",
           "En cas de modification substantielle, vous serez informé par email ou par un bandeau visible sur le site. La version en vigueur est toujours accessible depuis le pied de page du site.",
         ],
       },
@@ -907,7 +908,7 @@ export const fr = {
     // ── Loan Hero (composant) ───────────────────────────────────────────────────
   loanHero: {
     badge: "Réponse immédiate · Sans engagement",
-    fallbackTaglinePrefix: "La solution Fab Finance pour",
+    fallbackTaglinePrefix: "La solution ISEUT Finance pour",
     fallbackTaglineSuffix: "transparence, rapidité et accompagnement humain pour tous vos projets.",
     trustResponseTime: "Réponse en 2 minutes",
   },
@@ -926,7 +927,7 @@ export const fr = {
         paragraphs: [
           "Le prêt personnel est une solution de financement flexible qui permet de financer différents projets sans avoir à fournir de justificatif d'utilisation des fonds.",
           "Que ce soit pour financer des travaux, un voyage ou faire face à une dépense imprévue, ce crédit permet de disposer rapidement d'une somme d'argent.",
-          "Chez Fab Finance, vous pouvez simuler votre prêt en ligne en quelques secondes afin de connaître le montant de vos mensualités.",
+          "Chez ISEUT Finance, vous pouvez simuler votre prêt en ligne en quelques secondes afin de connaître le montant de vos mensualités.",
           "Notre équipe vous accompagne pour vous proposer une solution claire, transparente et adaptée à votre situation financière.",
         ],
       },
@@ -950,7 +951,7 @@ export const fr = {
           "Le prêt étudiant est un crédit spécialement conçu pour aider les étudiants à financer leurs études et les dépenses associées à leur parcours académique.",
           "Contrairement à un prêt classique, le remboursement peut être différé pendant la durée des études afin de permettre à l'étudiant de se concentrer sur sa formation.",
           "Une fois les études terminées, le remboursement du prêt commence selon les modalités définies lors de la souscription.",
-          "Chez Fab Finance, nous proposons des solutions de financement simples, transparentes et adaptées à la réalité des étudiants.",
+          "Chez ISEUT Finance, nous proposons des solutions de financement simples, transparentes et adaptées à la réalité des étudiants.",
         ],
       },
       usages: [
@@ -973,7 +974,7 @@ export const fr = {
           "Le prêt auto est un crédit dédié qui permet de financer l'achat d'un véhicule neuf ou d'occasion.",
           "Il vous permet de répartir le coût de votre voiture sur plusieurs mois ou années afin de préserver votre capacité d'épargne.",
           "Le montant des mensualités dépend du capital emprunté, de la durée du prêt et du taux d'intérêt appliqué.",
-          "Chez Fab Finance, vous pouvez simuler votre prêt auto en ligne et obtenir rapidement une réponse de principe.",
+          "Chez ISEUT Finance, vous pouvez simuler votre prêt auto en ligne et obtenir rapidement une réponse de principe.",
         ],
       },
       usages: [
@@ -996,7 +997,7 @@ export const fr = {
           "Le prêt professionnel permet aux entreprises et aux indépendants de financer leurs investissements et leur développement.",
           "Il peut servir à financer l'achat de matériel, l'aménagement d'un local, le recrutement de personnel ou encore le lancement d'un nouveau projet.",
           "La durée et le montant du prêt dépendent du projet, de la capacité de remboursement de l'entreprise et des garanties éventuelles.",
-          "Chez Fab Finance, nous proposons des solutions de financement claires et adaptées aux besoins des professionnels.",
+          "Chez ISEUT Finance, nous proposons des solutions de financement claires et adaptées aux besoins des professionnels.",
         ],
       },
       usages: [
@@ -1019,7 +1020,7 @@ export const fr = {
           "Le prêt à la consommation est un crédit accordé aux particuliers pour financer des biens ou des services destinés à un usage personnel.",
           "Il se distingue du prêt immobilier car il concerne généralement des montants plus faibles et des durées de remboursement plus courtes.",
           "Le remboursement se fait sous forme de mensualités fixes comprenant une partie du capital emprunté et les intérêts.",
-          "Grâce aux outils de simulation en ligne de Fab Finance, il est possible de connaître rapidement le montant des mensualités adapté à son budget.",
+          "Grâce aux outils de simulation en ligne de ISEUT Finance, il est possible de connaître rapidement le montant des mensualités adapté à son budget.",
         ],
       },
       usages: [
@@ -1042,7 +1043,7 @@ export const fr = {
           "Le rachat de crédit consiste à regrouper plusieurs prêts en cours en un seul crédit avec une mensualité unique.",
           "Cette solution permet de simplifier la gestion de vos finances et d'adapter le montant des mensualités à votre capacité de remboursement.",
           "Le regroupement peut concerner différents types de crédits : prêt personnel, crédit auto ou crédit à la consommation.",
-          "Chez Fab Finance, notre équipe analyse votre situation financière afin de vous proposer une solution de regroupement adaptée à votre budget.",
+          "Chez ISEUT Finance, notre équipe analyse votre situation financière afin de vous proposer une solution de regroupement adaptée à votre budget.",
         ],
       },
       usages: [
@@ -1103,7 +1104,7 @@ export const fr = {
   loanTrust: {
     eyebrow:  "Preuve sociale",
     title:    "Ils nous font confiance",
-    subtitle: "Plus de 200 000 projets financés avec Fab Finance",
+    subtitle: "Plus de 200 000 projets financés avec ISEUT Finance",
     stats: [
       { label: "projets financés" },
       { label: "note moyenne clients" },
@@ -1161,10 +1162,10 @@ export const fr = {
     status:   "En ligne · répond en 2h",
     greeting: "Bonjour ! 👋 Comment puis-je vous aider aujourd'hui ? Choisissez un sujet ou écrivez-nous directement.",
     quickMessages: [
-      { label: "Demander un prêt personnel", msg: "Bonjour Fab Finance 👋 Je souhaite obtenir un prêt personnel. Pouvez-vous m'aider ?" },
-      { label: "Simuler un prêt auto",       msg: "Bonjour Fab Finance 👋 Je souhaite simuler un prêt auto. Pouvez-vous m'accompagner ?" },
-      { label: "Connaître mes mensualités",  msg: "Bonjour Fab Finance 👋 J'aimerais connaître mes mensualités pour un projet de financement." },
-      { label: "Suivre mon dossier",         msg: "Bonjour Fab Finance 👋 Je souhaite avoir des nouvelles de mon dossier de prêt." },
+      { label: "Demander un prêt personnel", msg: "Bonjour ISEUT Finance 👋 Je souhaite obtenir un prêt personnel. Pouvez-vous m'aider ?" },
+      { label: "Simuler un prêt auto",       msg: "Bonjour ISEUT Finance 👋 Je souhaite simuler un prêt auto. Pouvez-vous m'accompagner ?" },
+      { label: "Connaître mes mensualités",  msg: "Bonjour ISEUT Finance 👋 J'aimerais connaître mes mensualités pour un projet de financement." },
+      { label: "Suivre mon dossier",         msg: "Bonjour ISEUT Finance 👋 Je souhaite avoir des nouvelles de mon dossier de prêt." },
     ],
     tooltip:  "Besoin d'aide ? 👋",
     ariaLabel:"Contacter via WhatsApp",

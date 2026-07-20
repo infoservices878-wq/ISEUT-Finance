@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion"
 import { X, MessageCircle, Phone, Mail, ChevronRight } from "lucide-react"
 import { useI18n } from "@/lib/i18n-context"
 
-const WHATSAPP_NUMBER = "33605662921" // ← remplace par ton numéro sans le +
+const WHATSAPP_NUMBER = "33776416705" // ← remplace par ton numéro sans le +
 
 function buildWhatsAppUrl(msg: string) {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`
@@ -55,7 +55,7 @@ export default function WhatsAppButton() {
                       <MessageCircle className="w-5 h-5 text-white" />
                     </div>
                     <div>
-                      <p className="text-white font-bold text-sm">Fab Finance</p>
+                      <p className="text-white font-bold text-sm">ISEUT Finance</p>
                       <div className="flex items-center gap-1.5">
                         <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse" />
                         <span className="text-green-300 text-xs">{s.status}</span>

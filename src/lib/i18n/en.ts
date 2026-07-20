@@ -192,10 +192,10 @@ export const en = {
     ]
   },
   "mission": {
-    "badge": "Fab Finance & You",
+    "badge": "ISEUT Finance & You",
     "title": "Financing that",
     "titleHighlight": "makes the difference",
-    "text1": "At Fab Finance, we put our expertise at the service of your life projects. Personal loans, consumer credit, auto loans, or debt consolidation: simple, transparent solutions tailored to every situation.",
+    "text1": "At ISEUT Finance, we put our expertise at the service of your life projects. Personal loans, consumer credit, auto loans, or debt consolidation: simple, transparent solutions tailored to every situation.",
     "text2": "Our mission is to make financing more accessible through innovative digital tools and human support at every step.",
     "cta": "Discover our mission",
     "stats": {
@@ -226,7 +226,7 @@ export const en = {
   "whyChooseUs": {
     "badge": "Our commitments",
     "title": "Why choose",
-    "titleHighlight": "Fab Finance?",
+    "titleHighlight": "ISEUT Finance?",
     "subtitle": "Technology and human expertise combined for a simple, fast, and reliable financing experience.",
     "items": [
       {
@@ -277,7 +277,7 @@ export const en = {
     "badge": "Social proof",
     "title": "Trusted by",
     "titleHighlight": "thousands",
-    "subtitle": "Thousands of clients trust Fab Finance to finance their personal and professional projects.",
+    "subtitle": "Thousands of clients trust ISEUT Finance to finance their personal and professional projects.",
     "certifiedBy": "Recognized and certified by",
     "stats": [
       {
@@ -313,7 +313,7 @@ export const en = {
       {
         "name": "Claire Dupont",
         "role": "Renovation · €25,000",
-        "text": "Truly professional, responsive customer service. They supported me from start to finish in financing my renovation. Thank you, Fab Finance!"
+        "text": "Truly professional, responsive customer service. They supported me from start to finish in financing my renovation. Thank you, ISEUT Finance!"
       }
     ]
   },
@@ -343,7 +343,7 @@ export const en = {
       },
       {
         "q": "Are there any application fees?",
-        "a": "Yes. Fab Finance charges application fees, which are very low. The simulation is free and non-binding. You only pay the interest defined in your contract."
+        "a": "Yes. ISEUT Finance charges application fees, which are very low. The simulation is free and non-binding. You only pay the interest defined in your contract."
       },
       {
         "q": "What's the maximum amount I can borrow?",
@@ -365,7 +365,7 @@ export const en = {
       "secure": "100% secure",
       "clients": "+200,000 satisfied clients"
     },
-    "legal": "A loan is a commitment and must be repaid. Check your repayment capacity before committing. Fab Finance — ORIAS No. 14 001 728."
+    "legal": "A loan is a commitment and must be repaid. Check your repayment capacity before committing. ISEUT Finance — ORIAS No. 14 001 728."
   },
   "simulator": {
     "title": "Simulate your loan",
@@ -490,9 +490,9 @@ export const en = {
     "title": "How to get your loan",
     "subtitle": "From simulation to fund transfer, discover every step.",
     "steps": "6 simple steps",
-    "journey": "The Fab Finance journey",
+    "journey": "The ISEUT Finance journey",
     "guarantee": "Our commitments",
-    "whyUs": "Why choose Fab Finance?",
+    "whyUs": "Why choose ISEUT Finance?",
     "cta": "Start my simulation",
     "ctaSub": "Free · No commitment · Response in 2 minutes",
     "hero": {
@@ -543,7 +543,7 @@ export const en = {
       {
         "title": "Review of Your Application",
         "subtitle": "Response within 24 hours",
-        "desc": "A dedicated Fab Finance advisor will review your application and contact you by phone or WhatsApp to tailor your offer and answer any questions you may have.",
+        "desc": "A dedicated ISEUT Finance advisor will review your application and contact you by phone or WhatsApp to tailor your offer and answer any questions you may have.",
         "details": [
           "Dedicated Personal Advisor",
           "Contact us by phone or WhatsApp",
@@ -624,7 +624,7 @@ export const en = {
       },
       {
         "q": "Can I track the status of my application?",
-        "a": "Yes. Your Fab Finance advisor will keep you informed at every step by phone, email, or WhatsApp. You can contact them directly at any time."
+        "a": "Yes. Your ISEUT Finance advisor will keep you informed at every step by phone, email, or WhatsApp. You can contact them directly at any time."
       }
     ],
     "finalCta": {
@@ -638,7 +638,7 @@ export const en = {
   "about": {
     "badge": "Our story",
     "title": "A fintech dedicated to your projects",
-    "subtitle": "Since 2016, Fab Finance has supported individuals and businesses with their financing projects.",
+    "subtitle": "Since 2016, ISEUT Finance has supported individuals and businesses with their financing projects.",
     "mission": "Our mission",
     "values": "Our values",
     "team": "Our team",
@@ -647,7 +647,7 @@ export const en = {
       "badge": "Founded in 2016 · Paris",
       "title": "Reinventing Credit",
       "titleHighlight": "for everyone",
-      "subtitle": "Fab Finance is committed to making financing accessible, transparent, and fair. Say goodbye to the complexity of traditional banking."
+      "subtitle": "ISEUT Finance is committed to making financing accessible, transparent, and fair. Say goodbye to the complexity of traditional banking."
     },
     "stats": [
       {
@@ -711,7 +711,7 @@ export const en = {
       "eyebrow": "Our History",
       "title": "8 Years of Innovation",
       "events": [
-        "Fab Finance was founded in Paris with a clear mission: to make credit more accessible.",
+        "ISEUT Finance was founded in Paris with a clear mission: to make credit more accessible.",
         "Launch of the online simulator — get a preliminary response in less than 2 minutes.",
         "Reached the 100,000-customer milestone and obtained ORIAS accreditation.",
         "European expansion and the launch of business and student loans.",
@@ -720,7 +720,7 @@ export const en = {
     },
     "finalCta": {
       "title": "Join the adventure",
-      "subtitle": "More than a million customers already trust us. Now it’s your turn to bring your projects to life with Fab Finance."
+      "subtitle": "More than a million customers already trust us. Now it’s your turn to bring your projects to life with ISEUT Finance."
     }
   },
   "contact": {
@@ -827,7 +827,7 @@ export const en = {
   },
   "mentionsLegales": {
     "pageTitle": "Legal Notice",
-    "pageSubtitle": "Legal and regulatory information regarding Fab Finance and the use of this website.",
+    "pageSubtitle": "Legal and regulatory information regarding ISEUT Finance and the use of this website.",
     "lastUpdate": "Last updated:",
     "summary": "Table of Contents",
     "sections": [
@@ -836,7 +836,7 @@ export const en = {
         "rows": [
           [
             "Company Name",
-            "Fab Finance"
+            "ISEUT Finance"
           ],
           [
             "Legal Form",
@@ -848,11 +848,15 @@ export const en = {
           ],
           [
             "Headquarters",
-            "52 Rue du Docteur Sultzer, 67140 Barr"
+            "31 Avenue Trudaigne, 75009 Paris"
           ],
           [
             "SIREN",
-            "524581873"
+            "824922561"
+          ],
+          [
+            "VAT number",
+            "FR02824922561"
           ],
           [
             "RCS",
@@ -864,11 +868,11 @@ export const en = {
           ],
           [
             "Regulatory Authority",
-            "ACPR – Banque de France"
+            "ACPR – Bank of France"
           ],
           [
             "President of SAS",
-            "Fabienne TOWAE"
+            "Tristan Dewitte"
           ]
         ]
       },
@@ -881,11 +885,11 @@ export const en = {
           ],
           [
             "Address",
-            "440 N Barranca Ave, Covina, CA"
+            "34 Švitrigailos Street, 03230, Vilnius, Lithuania"
           ],
           [
             "Website",
-            "www.vercel.com"
+            "www.hostinger.com"
           ]
         ]
       },
@@ -894,15 +898,15 @@ export const en = {
         "rows": [
           [
             "Email",
-            "contact@fab-financeaide.com"
+            "contact@iseutfinance.com"
           ],
           [
             "Phone",
-            "+33 753 959 516 (toll-free)"
+            "+33 7 76 41 67 05 (toll-free)"
           ],
           [
             "Mail",
-            "52 Rue du Docteur Sultzer, 67140 Barr"
+            "31 Avenue Trudaigne, 75009 Paris"
           ],
           [
             "Hours",
@@ -913,26 +917,26 @@ export const en = {
       {
         "title": "Regulated Activity",
         "paragraphs": [
-          "Fab Finance SAS is registered as a Banking and Payment Services Intermediary (IOBSP) in the ORIAS registry under number 14 001 728, which can be viewed at www.orias.fr.",
-          "As such, Fab Finance is subject to oversight by the Autorité de Contrôle Prudentiel et de Résolution (ACPR), the supervisory body of the Banque de France, located at 4 Place de Budapest, CS 92459, 75436 Paris Cedex 09.",
-          "Fab Finance is covered by professional liability insurance and maintains a financial guarantee in accordance with the provisions of Articles L.519-1 et seq. of the Monetary and Financial Code."
+          "ISEUT Finance SAS is registered as a Banking and Payment Services Intermediary (IOBSP) in the ORIAS registry under number 14 001 728, which can be viewed at www.orias.fr.",
+          "As such, ISEUT Finance is subject to oversight by the Autorité de Contrôle Prudentiel et de Résolution (ACPR), the supervisory body of the Bank of France, located at 4 Place de Budapest, CS 92459, 75436 Paris Cedex 09.",
+          "ISEUT Finance is covered by professional liability insurance and maintains a financial guarantee in accordance with the provisions of Articles L.519-1 et seq. of the Monetary and Financial Code."
         ]
       },
       {
         "title": "Intellectual Property",
         "paragraphs": [
-          "All elements comprising the Fab Finance website (text, graphics, software, photographs, images, sounds, diagrams, names, logos, trademarks, and various protectable creations and works) are the exclusive property of Fab Finance SAS or its partners.",
-          "Any reproduction, display, modification, publication, or adaptation of all or part of the content on this website, regardless of the means or method used, is prohibited without the prior written consent of Fab Finance SAS.",
+          "All elements comprising the ISEUT Finance website (text, graphics, software, photographs, images, sounds, diagrams, names, logos, trademarks, and various protectable creations and works) are the exclusive property of ISEUT Finance SAS or its partners.",
+          "Any reproduction, display, modification, publication, or adaptation of all or part of the content on this website, regardless of the means or method used, is prohibited without the prior written consent of ISEUT Finance SAS.",
           "Any unauthorized use of the website or any of the elements it contains will be considered an infringement and will be prosecuted in accordance with the provisions of Articles L.335-2 et seq. of the Intellectual Property Code."
         ]
       },
       {
         "title": "Limitation of Liability",
         "paragraphs": [
-          "Fab Finance makes every effort to ensure that the information published on this site is accurate and up-to-date. However, Fab Finance cannot guarantee the accuracy, precision, or completeness of the information made available on this site.",
+          "ISEUT Finance makes every effort to ensure that the information published on this site is accurate and up-to-date. However, ISEUT Finance cannot guarantee the accuracy, precision, or completeness of the information made available on this site.",
           "The simulations provided on this website are for informational purposes only and have no contractual value. They do not constitute a credit offer. Any decision to grant credit is made after our advisors have thoroughly reviewed the application.",
-          "Fab Finance assumes no liability for any damages resulting from fraudulent intrusion by a third party that has led to a change in the information made available on the website.",
-          "This site may contain hyperlinks to other websites over which Fab Finance has no control. Fab Finance assumes no responsibility for the content of these sites."
+          "ISEUT Finance assumes no liability for any damages resulting from fraudulent intrusion by a third party that has led to a change in the information made available on the website.",
+          "This site may contain hyperlinks to other websites over which ISEUT Finance has no control. ISEUT Finance assumes no responsibility for the content of these sites."
         ]
       },
       {
@@ -957,7 +961,7 @@ export const en = {
         "title": "Governing Law and Jurisdiction",
         "paragraphs": [
           "This website and its legal notices are governed by French law. In the event of a dispute, and after an attempt at amicable resolution, the French courts shall have exclusive jurisdiction.",
-          "In accordance with Article L.612-1 of the Consumer Code, every consumer has the right to seek the assistance of a consumer mediator, free of charge, to reach an amicable resolution of a dispute with a business. Fab Finance participates in the mediation service.",
+          "In accordance with Article L.612-1 of the Consumer Code, every consumer has the right to seek the assistance of a consumer mediator, free of charge, to reach an amicable resolution of a dispute with a business. ISEUT Finance participates in the mediation service.",
           "You can also use the European Online Dispute Resolution platform, available at: https://ec.europa.eu/consumers/odr"
         ]
       }
@@ -968,15 +972,15 @@ export const en = {
     "badge": "GDPR · Data Protection Act",
     "pageSubtitle": "How We Collect, Use, and Protect Your Personal Data.",
     "rgpdBoxTitle": "Your data is protected",
-    "rgpdBoxText": "Fab Finance complies with the General Data Protection Regulation (GDPR – EU 2016/679). Your data is never sold and is handled with the utmost care.",
+    "rgpdBoxText": "ISEUT Finance complies with the General Data Protection Regulation (GDPR – EU 2016/679). Your data is never sold and is handled with the utmost care.",
     "footerText": "To exercise your rights or if you have any questions regarding this policy, please contact our DPO at",
     "modifDateLabel": "Date of last update:",
     "sections": [
       {
         "title": "Data Controller",
         "paragraphs": [
-          "Fab Finance SAS, registered with the Paris Trade and Companies Register under number 524581873, with its registered office located at 52 RUE DU DOCTEUR SULTZER, 67140 BARR, is responsible for processing your personal data collected through this website.",
-          "Our Data Protection Officer (DPO) can be reached at: dpo@fab-financeaide.com"
+          "ISEUT Finance SAS, registered with the Paris Trade and Companies Register under number 824922561, with its registered office located at 31 AVENUE TRUDAINE 75009 PARIS, is responsible for processing your personal data collected through this website.",
+          "Our Data Protection Officer (DPO) can be reached at: dpo@iseutfinance.com"
         ]
       },
       {
@@ -1044,13 +1048,13 @@ export const en = {
       {
         "title": "Recipients of the data",
         "paragraphs": [
-          "Your data is processed exclusively by Fab Finance SAS and its technical service providers, strictly for the purpose of providing the service. It is never sold to third parties.",
+          "Your data is processed exclusively by ISEUT Finance SAS and its technical service providers, strictly for the purpose of providing the service. It is never sold to third parties.",
           "The subcontractors we use are contractually obligated to ensure the confidentiality and security of your data, in accordance with Article 28 of the GDPR."
         ],
         "rows": [
           [
             "Accommodations",
-            "Vercel Inc. (EU servers)"
+            "Hostinger (EU servers)"
           ],
           [
             "Sending Emails",
@@ -1095,7 +1099,7 @@ export const en = {
       },
       {
         "title": "Data Security",
-        "intro": "Fab Finance implements appropriate technical and organizational measures to protect your data against loss, destruction, alteration, and unauthorized access or disclosure.",
+        "intro": "ISEUT Finance implements appropriate technical and organizational measures to protect your data against loss, destruction, alteration, and unauthorized access or disclosure.",
         "rows": [
           [
             "Encryption",
@@ -1150,7 +1154,7 @@ export const en = {
           ]
         ],
         "paragraphs2": [
-          "To exercise your rights, please contact our DPO by email at dpo@fab-financeaide.com, attaching a copy of your ID. We will respond within one month of receiving your request.",
+          "To exercise your rights, please contact our DPO by email at dpo@iseutfinance.com, attaching a copy of your ID. We will respond within one month of receiving your request.",
           "If you believe your rights have not been respected, you may file a complaint with the CNIL: www.cnil.fr or 3 Place de Fontenoy, TSA 80715, 75334 Paris Cedex 07."
         ]
       },
@@ -1177,7 +1181,7 @@ export const en = {
       {
         "title": "Policy Changes",
         "paragraphs": [
-          "Fab Finance reserves the right to modify this privacy policy at any time, particularly to comply with any legal, judicial, editorial, or technical changes.",
+          "ISEUT Finance reserves the right to modify this privacy policy at any time, particularly to comply with any legal, judicial, editorial, or technical changes.",
           "In the event of a substantial change, you will be notified by email or via a prominent banner on the website. The current version is always available in the website's footer."
         ]
       }
@@ -1239,7 +1243,7 @@ export const en = {
   },
   "loanHero": {
     "badge": "Immediate response · No obligation",
-    "fallbackTaglinePrefix": "The Fab Finance solution for",
+    "fallbackTaglinePrefix": "The ISEUT Finance solution for",
     "fallbackTaglineSuffix": "Transparency, speed, and personalized support for all your projects.",
     "trustResponseTime": "Answer in 2 minutes"
   },
@@ -1261,7 +1265,7 @@ export const en = {
         "paragraphs": [
           "A personal loan is a flexible financing solution that allows you to fund various projects without having to provide proof of how the funds will be used.",
           "Whether you need to finance home improvements, a trip, or cover an unexpected expense, this loan provides you with quick access to funds.",
-          "At Fab Finance, you can run a loan simulation online in just a few seconds to find out how much your monthly payments will be.",
+          "At ISEUT Finance, you can run a loan simulation online in just a few seconds to find out how much your monthly payments will be.",
           "Our team works with you to provide a clear, transparent solution tailored to your financial situation."
         ]
       },
@@ -1298,7 +1302,7 @@ export const en = {
           "A student loan is a loan specifically designed to help students finance their education and cover the expenses associated with their academic pursuits.",
           "Unlike a traditional loan, repayment can be deferred for the duration of the student's studies to allow the student to focus on their education.",
           "Once you have completed your studies, loan repayment begins according to the terms agreed upon when you took out the loan.",
-          "At Fab Finance, we offer financing solutions that are simple, transparent, and tailored to students' real-life situations."
+          "At ISEUT Finance, we offer financing solutions that are simple, transparent, and tailored to students' real-life situations."
         ]
       },
       "usages": [
@@ -1334,7 +1338,7 @@ export const en = {
           "A car loan is a specialized loan designed to finance the purchase of a new or used vehicle.",
           "It allows you to spread the cost of your car over several months or years so you can continue to save.",
           "The amount of the monthly payments depends on the principal amount borrowed, the term of the loan, and the interest rate applied.",
-          "At Fab Finance, you can get a quote for your auto loan online and quickly receive a preliminary approval."
+          "At ISEUT Finance, you can get a quote for your auto loan online and quickly receive a preliminary approval."
         ]
       },
       "usages": [
@@ -1370,7 +1374,7 @@ export const en = {
           "A business loan allows companies and self-employed individuals to finance their investments and growth.",
           "It can be used to finance the purchase of equipment, the renovation of a space, the hiring of staff, or the launch of a new project.",
           "The term and amount of the loan depend on the project, the company's ability to repay the loan, and any collateral provided.",
-          "At Fab Finance, we offer clear financing solutions tailored to the needs of business professionals."
+          "At ISEUT Finance, we offer clear financing solutions tailored to the needs of business professionals."
         ]
       },
       "usages": [
@@ -1406,7 +1410,7 @@ export const en = {
           "A consumer loan is a loan granted to individuals to finance goods or services intended for personal use.",
           "It differs from a mortgage because it generally involves smaller amounts and shorter repayment terms.",
           "Repayment is made in the form of fixed monthly payments that include a portion of the principal and interest.",
-          "With Fab Finance's online simulation tools, you can quickly determine the monthly payment amount that fits your budget."
+          "With ISEUT Finance's online simulation tools, you can quickly determine the monthly payment amount that fits your budget."
         ]
       },
       "usages": [
@@ -1442,7 +1446,7 @@ export const en = {
           "Debt consolidation involves combining several outstanding loans into a single loan with a single monthly payment.",
           "This solution simplifies the management of your finances and allows you to adjust your monthly payments to match your ability to repay.",
           "Debt consolidation can apply to various types of loans: personal loans, auto loans, or consumer loans.",
-          "At Fab Finance, our team analyzes your financial situation to offer you a debt consolidation solution tailored to your budget."
+          "At ISEUT Finance, our team analyzes your financial situation to offer you a debt consolidation solution tailored to your budget."
         ]
       },
       "usages": [
@@ -1523,7 +1527,7 @@ export const en = {
   "loanTrust": {
     "eyebrow": "Social Proof",
     "title": "They trust us",
-    "subtitle": "More than 200,000 projects funded through Fab Finance",
+    "subtitle": "More than 200,000 projects funded through ISEUT Finance",
     "stats": [
       {
         "label": "funded projects"
@@ -1594,19 +1598,19 @@ export const en = {
     "quickMessages": [
       {
         "label": "Apply for a personal loan",
-        "msg": "Hello, Fab Finance 👋 I'd like to apply for a personal loan. Can you help me?"
+        "msg": "Hello, ISEUT Finance 👋 I'd like to apply for a personal loan. Can you help me?"
       },
       {
         "label": "Get a Car Loan Estimate",
-        "msg": "Hello, Fab Finance 👋 I'd like to get a car loan quote. Can you help me with that?"
+        "msg": "Hello, ISEUT Finance 👋 I'd like to get a car loan quote. Can you help me with that?"
       },
       {
         "label": "Find out my monthly payments",
-        "msg": "Hello, Fab Finance 👋 I'd like to know my monthly payments for a financing plan."
+        "msg": "Hello, ISEUT Finance 👋 I'd like to know my monthly payments for a financing plan."
       },
       {
         "label": "Track My Case",
-        "msg": "Hello, Fab Finance 👋 I'd like to know the status of my loan application."
+        "msg": "Hello, ISEUT Finance 👋 I'd like to know the status of my loan application."
       }
     ],
     "tooltip": "Need help? 👋",

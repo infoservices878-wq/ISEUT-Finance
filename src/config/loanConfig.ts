@@ -44,7 +44,7 @@ export const loanConfig: any = {
       paragraphs: [
         "Le prêt personnel est une solution de financement flexible qui permet de financer différents projets sans avoir à fournir de justificatif d'utilisation des fonds.",
         "Que ce soit pour financer des travaux, un voyage ou faire face à une dépense imprévue, ce crédit permet de disposer rapidement d'une somme d'argent.",
-        "Chez Fab Finance, vous pouvez simuler votre prêt en ligne en quelques secondes afin de connaître le montant de vos mensualités.",
+        "Chez ISEUT Finance, vous pouvez simuler votre prêt en ligne en quelques secondes afin de connaître le montant de vos mensualités.",
         "Notre équipe vous accompagne pour vous proposer une solution claire, transparente et adaptée à votre situation financière.",
       ],
     },
@@ -114,7 +114,7 @@ export const loanConfig: any = {
         "Le prêt étudiant est un crédit spécialement conçu pour aider les étudiants à financer leurs études et les dépenses associées à leur parcours académique.",
         "Contrairement à un prêt classique, le remboursement peut être différé pendant la durée des études afin de permettre à l'étudiant de se concentrer sur sa formation.",
         "Une fois les études terminées, le remboursement du prêt commence selon les modalités définies lors de la souscription.",
-        "Chez Fab Finance, nous proposons des solutions de financement simples, transparentes et adaptées à la réalité des étudiants.",
+        "Chez ISEUT Finance, nous proposons des solutions de financement simples, transparentes et adaptées à la réalité des étudiants.",
       ],
     },
 
@@ -183,7 +183,7 @@ export const loanConfig: any = {
         "Le prêt auto est un crédit dédié qui permet de financer l'achat d'un véhicule neuf ou d'occasion.",
         "Il vous permet de répartir le coût de votre voiture sur plusieurs mois ou années afin de préserver votre capacité d'épargne.",
         "Le montant des mensualités dépend du capital emprunté, de la durée du prêt et du taux d'intérêt appliqué.",
-        "Chez Fab Finance, vous pouvez simuler votre prêt auto en ligne et obtenir rapidement une réponse de principe.",
+        "Chez ISEUT Finance, vous pouvez simuler votre prêt auto en ligne et obtenir rapidement une réponse de principe.",
       ],
     },
 
@@ -252,7 +252,7 @@ export const loanConfig: any = {
         "Le prêt professionnel permet aux entreprises et aux indépendants de financer leurs investissements et leur développement.",
         "Il peut servir à financer l'achat de matériel, l'aménagement d'un local, le recrutement de personnel ou encore le lancement d'un nouveau projet.",
         "La durée et le montant du prêt dépendent du projet, de la capacité de remboursement de l'entreprise et des garanties éventuelles.",
-        "Chez Fab Finance, nous proposons des solutions de financement claires et adaptées aux besoins des professionnels.",
+        "Chez ISEUT Finance, nous proposons des solutions de financement claires et adaptées aux besoins des professionnels.",
       ],
     },
 
@@ -321,7 +321,7 @@ export const loanConfig: any = {
         "Le prêt à la consommation est un crédit accordé aux particuliers pour financer des biens ou des services destinés à un usage personnel.",
         "Il se distingue du prêt immobilier car il concerne généralement des montants plus faibles et des durées de remboursement plus courtes.",
         "Le remboursement se fait sous forme de mensualités fixes comprenant une partie du capital emprunté et les intérêts.",
-        "Grâce aux outils de simulation en ligne de Fab Finance, il est possible de connaître rapidement le montant des mensualités adapté à son budget.",
+        "Grâce aux outils de simulation en ligne de ISEUT Finance, il est possible de connaître rapidement le montant des mensualités adapté à son budget.",
       ],
     },
 
@@ -390,7 +390,7 @@ export const loanConfig: any = {
         "Le rachat de crédit consiste à regrouper plusieurs prêts en cours en un seul crédit avec une mensualité unique.",
         "Cette solution permet de simplifier la gestion de vos finances et d'adapter le montant des mensualités à votre capacité de remboursement.",
         "Le regroupement peut concerner différents types de crédits : prêt personnel, crédit auto ou crédit à la consommation.",
-        "Chez Fab Finance, notre équipe analyse votre situation financière afin de vous proposer une solution de regroupement adaptée à votre budget.",
+        "Chez ISEUT Finance, notre équipe analyse votre situation financière afin de vous proposer une solution de regroupement adaptée à votre budget.",
       ],
     },
 

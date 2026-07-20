@@ -1,4 +1,4 @@
-#  Fab Finance
+#  ISEUT Finance
 
 > Application de simulation de prêt et de demande de prêt — 100% frontend React
 ---
@@ -52,13 +52,13 @@ Suis ces étapes **dans l'ordre**, une par une.
 Ouvre un terminal (ou PowerShell sur Windows) et tape :
 
 ```bash
-git clone https://github.com/Zey000a/fab-finance.git
+git clone https://github.com/infoservices878-wq/ISEUT-Finance.git
 ```
 
 ### Étape 2 — Aller dans le dossier du projet
 
 ```bash
-cd fab-finance
+cd ISEUT-Finance
 ```
 
 ### Étape 3 — Installer les dépendances
@@ -107,7 +107,7 @@ Aloo
 ## Structure du projet
 
 ```
-fab-finance/
+ISEUT-Finance/
 ├── public/          → Fichiers statiques (images, favicon...)
 ├── src/
 │   ├── assets/      → Images et ressources
@@ -140,7 +140,7 @@ Vérifie que tu es bien dans le bon dossier :
 
 ```bash
 pwd
-# Doit afficher quelque chose comme : .../fab-finance
+# Doit afficher quelque chose comme : .../ISEUT-Finance
 ```
 
 Si le problème persiste, essaie de supprimer le dossier `node_modules` et de relancer :

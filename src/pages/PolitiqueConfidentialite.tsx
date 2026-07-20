@@ -212,8 +212,8 @@ export default function PolitiqueConfidentialite() {
           >
             <p className="text-xs text-gray-400 leading-relaxed max-w-2xl mx-auto mb-4">
               {s.footerText}{" "}
-              <a href="mailto:dpo@fab-financeaide.com" className="text-green-600 hover:underline font-medium">
-                dpo@fab-financeaide.com
+              <a href="mailto:dpo@iseutfinance.com" className="text-green-600 hover:underline font-medium">
+                dpo@iseutfinance.com
               </a>
             </p>
             <div className="flex flex-wrap justify-center gap-4 text-xs text-gray-400">

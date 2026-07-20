@@ -192,10 +192,10 @@ export const de = {
     ]
   },
   "mission": {
-    "badge": "Fab Finance & Sie",
+    "badge": "ISEUT Finance & Sie",
     "title": "Die Finanzierung, die",
     "titleHighlight": "macht den Unterschied aus",
-    "text1": "Bei Fab Finance stellen wir unser Fachwissen in den Dienst Ihrer Lebenspläne. Privatkredit, Verbraucherkredit, Autokredit oder Umschuldung: einfache, transparente und auf jede Situation zugeschnittene Lösungen.",
+    "text1": "Bei ISEUT Finance stellen wir unser Fachwissen in den Dienst Ihrer Lebenspläne. Privatkredit, Verbraucherkredit, Autokredit oder Umschuldung: einfache, transparente und auf jede Situation zugeschnittene Lösungen.",
     "text2": "Unser Ziel ist es, die Finanzierung durch innovative digitale Tools und eine persönliche Betreuung in jeder Phase zugänglicher zu machen.",
     "cta": "Erfahren Sie mehr über unsere Mission",
     "stats": {
@@ -226,7 +226,7 @@ export const de = {
   "whyChooseUs": {
     "badge": "Unsere Verpflichtungen",
     "title": "Warum sollten Sie sich entscheiden für",
-    "titleHighlight": "Fab Finance?",
+    "titleHighlight": "ISEUT Finance?",
     "subtitle": "Technologie und menschliches Fachwissen vereint für ein einfaches, schnelles und zuverlässiges Finanzierungserlebnis.",
     "items": [
       {
@@ -277,7 +277,7 @@ export const de = {
     "badge": "Sozialer Beweis",
     "title": "Sie lassen uns",
     "titleHighlight": "Vertrauen",
-    "subtitle": "Tausende Kunden vertrauen auf Fab Finance, wenn es um die Finanzierung ihrer privaten und beruflichen Projekte geht.",
+    "subtitle": "Tausende Kunden vertrauen auf ISEUT Finance, wenn es um die Finanzierung ihrer privaten und beruflichen Projekte geht.",
     "certifiedBy": "Anerkannt und zertifiziert durch",
     "stats": [
       {
@@ -313,7 +313,7 @@ export const de = {
       {
         "name": "Claire Dupont",
         "role": "Bauarbeiten · 25.000 €",
-        "text": "Ein wirklich professioneller und hilfsbereiter Kundenservice. Sie haben mich bei der Finanzierung meiner Renovierung von A bis Z begleitet. Vielen Dank, Fab Finance!"
+        "text": "Ein wirklich professioneller und hilfsbereiter Kundenservice. Sie haben mich bei der Finanzierung meiner Renovierung von A bis Z begleitet. Vielen Dank, ISEUT Finance!"
       }
     ]
   },
@@ -343,7 +343,7 @@ export const de = {
       },
       {
         "q": "Fallen Bearbeitungsgebühren an?",
-        "a": "Ja. Fab Finance berechnet eine sehr geringe Bearbeitungsgebühr. Die Simulation ist kostenlos und unverbindlich. Sie zahlen lediglich die in Ihrem Vertrag festgelegten Zinsen."
+        "a": "Ja. ISEUT Finance berechnet eine sehr geringe Bearbeitungsgebühr. Die Simulation ist kostenlos und unverbindlich. Sie zahlen lediglich die in Ihrem Vertrag festgelegten Zinsen."
       },
       {
         "q": "Wie hoch ist der Höchstbetrag, den ich aufnehmen kann?",
@@ -365,7 +365,7 @@ export const de = {
       "secure": "100 % sicher",
       "clients": "Über 200.000 zufriedene Kunden"
     },
-    "legal": "Ein Kredit ist eine Verpflichtung und muss zurückgezahlt werden. Prüfen Sie Ihre Rückzahlungsmöglichkeiten, bevor Sie einen Kredit aufnehmen. Fab Finance – ORIAS-Nr. 14 001 728."
+    "legal": "Ein Kredit ist eine Verpflichtung und muss zurückgezahlt werden. Prüfen Sie Ihre Rückzahlungsmöglichkeiten, bevor Sie einen Kredit aufnehmen. ISEUT Finance – ORIAS-Nr. 14 001 728."
   },
   "simulator": {
     "title": "Simulieren Sie Ihren Kredit",
@@ -490,9 +490,9 @@ export const de = {
     "title": "Wie erhalten Sie Ihren Kredit?",
     "subtitle": "Von der Simulation bis zur Auszahlung der Mittel – entdecken Sie jeden einzelnen Schritt.",
     "steps": "6 einfache Schritte",
-    "journey": "Der Werdegang bei Fab Finance",
+    "journey": "Der Werdegang bei ISEUT Finance",
     "guarantee": "Unsere Verpflichtungen",
-    "whyUs": "Warum sollten Sie sich für Fab Finance entscheiden?",
+    "whyUs": "Warum sollten Sie sich für ISEUT Finance entscheiden?",
     "cta": "Meine Simulation starten",
     "ctaSub": "Kostenlos · Unverbindlich · Antwort innerhalb von 2 Minuten",
     "hero": {
@@ -543,7 +543,7 @@ export const de = {
       {
         "title": "Prüfung Ihrer Unterlagen",
         "subtitle": "Antwort innerhalb von 24 Stunden",
-        "desc": "Ein persönlicher Berater von Fab Finance prüft Ihre Unterlagen und setzt sich telefonisch oder über WhatsApp mit Ihnen in Verbindung, um Ihr Angebot individuell anzupassen und alle Ihre Fragen zu beantworten.",
+        "desc": "Ein persönlicher Berater von ISEUT Finance prüft Ihre Unterlagen und setzt sich telefonisch oder über WhatsApp mit Ihnen in Verbindung, um Ihr Angebot individuell anzupassen und alle Ihre Fragen zu beantworten.",
         "details": [
           "Persönlicher Ansprechpartner",
           "Kontakt per Telefon oder WhatsApp",
@@ -624,7 +624,7 @@ export const de = {
       },
       {
         "q": "Kann ich den Bearbeitungsstand meines Antrags verfolgen?",
-        "a": "Ja. Ihr Fab Finance-Berater hält Sie in jeder Phase per Telefon, E-Mail oder WhatsApp auf dem Laufenden. Sie können ihn jederzeit direkt kontaktieren."
+        "a": "Ja. Ihr ISEUT Finance-Berater hält Sie in jeder Phase per Telefon, E-Mail oder WhatsApp auf dem Laufenden. Sie können ihn jederzeit direkt kontaktieren."
       }
     ],
     "finalCta": {
@@ -638,7 +638,7 @@ export const de = {
   "about": {
     "badge": "Unsere Geschichte",
     "title": "Ein Fintech-Unternehmen, das Ihre Projekte unterstützt",
-    "subtitle": "Seit 2016 unterstützt Fab Finance Privatpersonen und Gewerbetreibende bei ihren Finanzierungsprojekten.",
+    "subtitle": "Seit 2016 unterstützt ISEUT Finance Privatpersonen und Gewerbetreibende bei ihren Finanzierungsprojekten.",
     "mission": "Unsere Mission",
     "values": "Unsere Werte",
     "team": "Unser Team",
@@ -647,7 +647,7 @@ export const de = {
       "badge": "Gegründet 2016 · Paris",
       "title": "Kredite neu erfinden",
       "titleHighlight": "für alle",
-      "subtitle": "Fab Finance hat es sich zur Aufgabe gemacht, Finanzierungen zugänglich, transparent und fair zu gestalten. Schluss mit der Komplexität des traditionellen Bankwesens."
+      "subtitle": "ISEUT Finance hat es sich zur Aufgabe gemacht, Finanzierungen zugänglich, transparent und fair zu gestalten. Schluss mit der Komplexität des traditionellen Bankwesens."
     },
     "stats": [
       {
@@ -711,7 +711,7 @@ export const de = {
       "eyebrow": "Unsere Geschichte",
       "title": "8 Jahre Innovation",
       "events": [
-        "Gründung von Fab Finance in Paris mit einem klaren Ziel: den Zugang zu Krediten für alle zu ermöglichen.",
+        "Gründung von ISEUT Finance in Paris mit einem klaren Ziel: den Zugang zu Krediten für alle zu ermöglichen.",
         "Start des Online-Simulators – grundsätzliche Antwort in weniger als 2 Minuten.",
         "Die 100.000er-Marke bei den Kunden wurde überschritten und die ORIAS-Zulassung erhalten.",
         "Expansion in Europa und Einführung von Krediten für Gewerbetreibende und Studierende.",
@@ -720,7 +720,7 @@ export const de = {
     },
     "finalCta": {
       "title": "Machen Sie mit bei diesem Abenteuer",
-      "subtitle": "Mehr als eine Million Kunden vertrauen uns bereits. Jetzt sind Sie an der Reihe, Ihre Projekte mit Fab Finance zu verwirklichen."
+      "subtitle": "Mehr als eine Million Kunden vertrauen uns bereits. Jetzt sind Sie an der Reihe, Ihre Projekte mit ISEUT Finance zu verwirklichen."
     }
   },
   "contact": {
@@ -827,7 +827,7 @@ export const de = {
   },
   "mentionsLegales": {
     "pageTitle": "Rechtliche Hinweise",
-    "pageSubtitle": "Rechtliche und regulatorische Hinweise zu Fab Finance und zur Nutzung dieser Website.",
+    "pageSubtitle": "Rechtliche und regulatorische Hinweise zu ISEUT Finance und zur Nutzung dieser Website.",
     "lastUpdate": "Letzte Aktualisierung:",
     "summary": "Inhaltsverzeichnis",
     "sections": [
@@ -836,7 +836,7 @@ export const de = {
         "rows": [
           [
             "Firmenname",
-            "Fab Finance"
+            "ISEUT Finance"
           ],
           [
             "Rechtsform",
@@ -848,11 +848,11 @@ export const de = {
           ],
           [
             "Hauptsitz",
-            "52 Rue du Docteur Sultzer, 67140 Barr"
+            "31 Avenue Trudaine, 75009 Paris"
           ],
           [
             "SIREN",
-            "524581873"
+            "824922561"
           ],
           [
             "Handelsregister",
@@ -868,7 +868,11 @@ export const de = {
           ],
           [
             "Vorstandsvorsitzender der SAS",
-            "TOWAE Fabienne"
+            "Dewitte Tristan"
+          ],
+          [
+            "Vorstandsvorsitzender der SAS",
+            "Tristan Dewitte"
           ]
         ]
       },
@@ -877,15 +881,15 @@ export const de = {
         "rows": [
           [
             "Webhost",
-            "Vercel Inc."
+            "Hostinger"
           ],
           [
             "Adresse",
-            "440 N Barranca Ave, Covina, CA"
+            "Švitrigailos-Straße 34, 03230, Vilnius, Litauen"
           ],
           [
             "Website",
-            "www.vercel.com"
+            "www.hostinger.com"
           ]
         ]
       },
@@ -894,15 +898,15 @@ export const de = {
         "rows": [
           [
             "E-Mail",
-            "contact@fab-financeaide.com"
+            "contact@iseutfinance.com"
           ],
           [
             "Telefon",
-            "+33 753 959 516 (kostenloser Anruf)"
+            "+33 7 76 41 67 05 (kostenloser Anruf)"
           ],
           [
             "Post",
-            "52 Rue du Docteur Sultzer, 67140 Barr"
+            "31 Avenue Trudaine, 75009 Paris"
           ],
           [
             "Öffnungszeiten",
@@ -913,26 +917,26 @@ export const de = {
       {
         "title": "Regulierte Tätigkeit",
         "paragraphs": [
-          "Fab Finance SAS ist als Vermittler für Bankgeschäfte und Zahlungsdienste (IOBSP) im ORIAS-Register unter der Nummer 14 001 728 eingetragen; die Eintragung kann unter www.orias.fr eingesehen werden.",
-          "In dieser Eigenschaft unterliegt Fab Finance der Aufsicht der Autorité de Contrôle Prudentiel et de Résolution (ACPR), der Aufsichtsbehörde der Banque de France, mit Sitz in 4 Place de Budapest, CS 92459, 75436 Paris Cedex 09.",
-          "Fab Finance ist durch eine Berufshaftpflichtversicherung abgesichert und verfügt über eine Finanzgarantie gemäß den Bestimmungen der Artikel L.519-1 ff. des französischen Währungs- und Finanzgesetzes."
+          "ISEUT Finance SAS ist als Vermittler für Bankgeschäfte und Zahlungsdienste (IOBSP) im ORIAS-Register unter der Nummer 14 001 728 eingetragen; die Eintragung kann unter www.orias.fr eingesehen werden.",
+          "In dieser Eigenschaft unterliegt ISEUT Finance der Aufsicht der Autorité de Contrôle Prudentiel et de Résolution (ACPR), der Aufsichtsbehörde der Banque de France, mit Sitz in 4 Place de Budapest, CS 92459, 75436 Paris Cedex 09.",
+          "ISEUT Finance ist durch eine Berufshaftpflichtversicherung abgesichert und verfügt über eine Finanzgarantie gemäß den Bestimmungen der Artikel L.519-1 ff. des französischen Währungs- und Finanzgesetzes."
         ]
       },
       {
         "title": "Geistiges Eigentum",
         "paragraphs": [
-          "Alle Elemente, aus denen sich die Website von Fab Finance zusammensetzt (Texte, Grafiken, Software, Fotos, Bilder, Tonaufnahmen, Pläne, Namen, Logos, Marken, Kreationen und verschiedene schutzfähige Werke), sind ausschließliches Eigentum von Fab Finance SAS oder deren Partnern.",
-          "Jede Vervielfältigung, Darstellung, Änderung, Veröffentlichung oder Bearbeitung aller oder eines Teils der Elemente dieser Website, unabhängig von den verwendeten Mitteln oder Verfahren, ist ohne vorherige schriftliche Genehmigung von Fab Finance SAS untersagt.",
+          "Alle Elemente, aus denen sich die Website von ISEUT Finance zusammensetzt (Texte, Grafiken, Software, Fotos, Bilder, Tonaufnahmen, Pläne, Namen, Logos, Marken, Kreationen und verschiedene schutzfähige Werke), sind ausschließliches Eigentum von ISEUT Finance SAS oder deren Partnern.",
+          "Jede Vervielfältigung, Darstellung, Änderung, Veröffentlichung oder Bearbeitung aller oder eines Teils der Elemente dieser Website, unabhängig von den verwendeten Mitteln oder Verfahren, ist ohne vorherige schriftliche Genehmigung von ISEUT Finance SAS untersagt.",
           "Jede unbefugte Nutzung der Website oder eines der darin enthaltenen Elemente gilt als Urheberrechtsverletzung und wird gemäß den Bestimmungen der Artikel L.335-2 ff. des Gesetzes über geistiges Eigentum strafrechtlich verfolgt."
         ]
       },
       {
         "title": "Haftungsausschluss",
         "paragraphs": [
-          "Fab Finance ist bestrebt, die Richtigkeit und Aktualität der auf dieser Website veröffentlichten Informationen so gut wie möglich sicherzustellen. Fab Finance kann jedoch keine Gewähr für die Richtigkeit, Genauigkeit oder Vollständigkeit der auf dieser Website bereitgestellten Informationen übernehmen.",
+          "ISEUT Finance ist bestrebt, die Richtigkeit und Aktualität der auf dieser Website veröffentlichten Informationen so gut wie möglich sicherzustellen. ISEUT Finance kann jedoch keine Gewähr für die Richtigkeit, Genauigkeit oder Vollständigkeit der auf dieser Website bereitgestellten Informationen übernehmen.",
           "Die auf dieser Website durchgeführten Simulationen dienen lediglich zu Informationszwecken und haben keinerlei vertraglichen Charakter. Sie stellen kein Kreditangebot dar. Jede Entscheidung über die Kreditvergabe wird erst nach einer umfassenden Prüfung der Unterlagen durch unsere Berater getroffen.",
-          "Fab Finance übernimmt keinerlei Haftung für Schäden, die durch einen betrügerischen Zugriff Dritter entstehen, der zu einer Änderung der auf der Website bereitgestellten Informationen geführt hat.",
-          "Diese Website kann Hyperlinks zu anderen Websites enthalten, auf die Fab Finance keinen Einfluss hat. Fab Finance übernimmt keinerlei Haftung für den Inhalt dieser Websites."
+          "ISEUT Finance übernimmt keinerlei Haftung für Schäden, die durch einen betrügerischen Zugriff Dritter entstehen, der zu einer Änderung der auf der Website bereitgestellten Informationen geführt hat.",
+          "Diese Website kann Hyperlinks zu anderen Websites enthalten, auf die ISEUT Finance keinen Einfluss hat. ISEUT Finance übernimmt keinerlei Haftung für den Inhalt dieser Websites."
         ]
       },
       {
@@ -957,7 +961,7 @@ export const de = {
         "title": "Anwendbares Recht und Gerichtsstand",
         "paragraphs": [
           "Diese Website und ihre rechtlichen Hinweise unterliegen französischem Recht. Im Falle eines Rechtsstreits und nach dem Versuch einer gütlichen Einigung sind ausschließlich die französischen Gerichte zuständig.",
-          "Gemäß Artikel L.612-1 des Verbrauchergesetzbuchs hat jeder Verbraucher das Recht, sich kostenlos an einen Verbraucherschlichter zu wenden, um eine gütliche Beilegung des Streits mit einem Gewerbetreibenden zu erreichen. Fab Finance ist Mitglied dieses Schlichtungsdienstes.",
+          "Gemäß Artikel L.612-1 des Verbrauchergesetzbuchs hat jeder Verbraucher das Recht, sich kostenlos an einen Verbraucherschlichter zu wenden, um eine gütliche Beilegung des Streits mit einem Gewerbetreibenden zu erreichen. ISEUT Finance ist Mitglied dieses Schlichtungsdienstes.",
           "Sie können sich auch an die europäische Plattform zur Online-Streitbeilegung wenden, die unter folgender Adresse erreichbar ist: https://ec.europa.eu/consumers/odr"
         ]
       }
@@ -968,15 +972,15 @@ export const de = {
     "badge": "DSGVO · Datenschutzgesetz",
     "pageSubtitle": "Wie wir Ihre personenbezogenen Daten erheben, verwenden und schützen.",
     "rgpdBoxTitle": "Ihre Daten sind geschützt",
-    "rgpdBoxText": "Fab Finance hält sich an die Datenschutz-Grundverordnung (DSGVO – EU 2016/679). Ihre Daten werden niemals verkauft und mit größter Sorgfalt behandelt.",
+    "rgpdBoxText": "ISEUT Finance hält sich an die Datenschutz-Grundverordnung (DSGVO – EU 2016/679). Ihre Daten werden niemals verkauft und mit größter Sorgfalt behandelt.",
     "footerText": "Um Ihre Rechte auszuüben oder bei Fragen zu dieser Richtlinie wenden Sie sich bitte an unseren Datenschutzbeauftragten unter",
     "modifDateLabel": "Datum der letzten Aktualisierung:",
     "sections": [
       {
         "title": "Verantwortlicher für die Datenverarbeitung",
         "paragraphs": [
-          "Fab Finance SAS, eingetragen im Handelsregister von Paris unter der Nummer 524581873, mit Sitz in 52 RUE DU DOCTEUR SULTZER, 67140 BARR, ist für die Verarbeitung Ihrer über diese Website erhobenen personenbezogenen Daten verantwortlich.",
-          "Unser Datenschutzbeauftragter (DSB) ist unter folgender Adresse erreichbar: dpo@fab-financeaide.com"
+          "ISEUT Finance SAS, eingetragen im Handelsregister von Paris unter der Nummer 824922561, mit Sitz in 31 AVENUE TRUDAINE 75009 PARIS, ist für die Verarbeitung Ihrer über diese Website erhobenen personenbezogenen Daten verantwortlich.",
+          "Unser Datenschutzbeauftragter (DSB) ist unter folgender Adresse erreichbar: dpo@iseutfinance.com"
         ]
       },
       {
@@ -1044,13 +1048,13 @@ export const de = {
       {
         "title": "Empfänger der Daten",
         "paragraphs": [
-          "Ihre Daten werden ausschließlich von Fab Finance SAS und deren technischen Dienstleistern im Rahmen der Erbringung der Dienstleistung verarbeitet. Sie werden niemals an Dritte verkauft.",
+          "Ihre Daten werden ausschließlich von ISEUT Finance SAS und deren technischen Dienstleistern im Rahmen der Erbringung der Dienstleistung verarbeitet. Sie werden niemals an Dritte verkauft.",
           "Die von uns beauftragten Auftragsverarbeiter sind gemäß Artikel 28 der DSGVO vertraglich verpflichtet, die Vertraulichkeit und Sicherheit Ihrer Daten zu gewährleisten."
         ],
         "rows": [
           [
             "Unterkunft",
-            "Vercel Inc. (Server in der EU)"
+            "Hostinger (Server in der EU)"
           ],
           [
             "Versenden von E-Mails",
@@ -1095,7 +1099,7 @@ export const de = {
       },
       {
         "title": "Datensicherheit",
-        "intro": "Fab Finance ergreift geeignete technische und organisatorische Maßnahmen, um Ihre Daten vor Verlust, Zerstörung, Veränderung sowie unbefugtem Zugriff oder unbefugter Weitergabe zu schützen.",
+        "intro": "ISEUT Finance ergreift geeignete technische und organisatorische Maßnahmen, um Ihre Daten vor Verlust, Zerstörung, Veränderung sowie unbefugtem Zugriff oder unbefugter Weitergabe zu schützen.",
         "rows": [
           [
             "Verschlüsselung",
@@ -1150,7 +1154,7 @@ export const de = {
           ]
         ],
         "paragraphs2": [
-          "Um Ihre Rechte geltend zu machen, wenden Sie sich bitte per E-Mail an unseren Datenschutzbeauftragten unter dpo@fab-financeaide.com und fügen Sie eine Kopie Ihres Ausweises bei. Wir werden Ihnen innerhalb eines Monats nach Eingang Ihrer Anfrage antworten.",
+          "Um Ihre Rechte geltend zu machen, wenden Sie sich bitte per E-Mail an unseren Datenschutzbeauftragten unter dpo@iseutfinance.com und fügen Sie eine Kopie Ihres Ausweises bei. Wir werden Ihnen innerhalb eines Monats nach Eingang Ihrer Anfrage antworten.",
           "Wenn Sie der Meinung sind, dass Ihre Rechte nicht gewahrt werden, können Sie eine Beschwerde bei der CNIL einreichen: www.cnil.fr oder 3 Place de Fontenoy, TSA 80715, 75334 Paris Cedex 07."
         ]
       },
@@ -1177,7 +1181,7 @@ export const de = {
       {
         "title": "Änderungen der Richtlinien",
         "paragraphs": [
-          "Fab Finance behält sich das Recht vor, diese Datenschutzerklärung jederzeit zu ändern, insbesondere um etwaigen rechtlichen, rechtswissenschaftlichen, redaktionellen oder technischen Entwicklungen Rechnung zu tragen.",
+          "ISEUT Finance behält sich das Recht vor, diese Datenschutzerklärung jederzeit zu ändern, insbesondere um etwaigen rechtlichen, rechtswissenschaftlichen, redaktionellen oder technischen Entwicklungen Rechnung zu tragen.",
           "Im Falle einer wesentlichen Änderung werden Sie per E-Mail oder durch einen gut sichtbaren Hinweis auf der Website informiert. Die jeweils gültige Fassung ist stets über die Fußzeile der Website abrufbar."
         ]
       }
@@ -1239,7 +1243,7 @@ export const de = {
   },
   "loanHero": {
     "badge": "Sofortige Antwort · Unverbindlich",
-    "fallbackTaglinePrefix": "Die Fab Finance-Lösung für",
+    "fallbackTaglinePrefix": "Die ISEUT Finance-Lösung für",
     "fallbackTaglineSuffix": "Transparenz, Schnelligkeit und persönliche Betreuung bei all Ihren Projekten.",
     "trustResponseTime": "Antwort in 2 Minuten"
   },
@@ -1261,7 +1265,7 @@ export const de = {
         "paragraphs": [
           "Der Privatkredit ist eine flexible Finanzierungslösung, mit der sich verschiedene Projekte finanzieren lassen, ohne dass ein Verwendungsnachweis für die Mittel erbracht werden muss.",
           "Ob zur Finanzierung von Renovierungsarbeiten, einer Reise oder zur Deckung unerwarteter Ausgaben – mit diesem Kredit steht Ihnen schnell ein Geldbetrag zur Verfügung.",
-          "Bei Fab Finance können Sie Ihren Kredit in wenigen Sekunden online simulieren, um die Höhe Ihrer monatlichen Raten zu erfahren.",
+          "Bei ISEUT Finance können Sie Ihren Kredit in wenigen Sekunden online simulieren, um die Höhe Ihrer monatlichen Raten zu erfahren.",
           "Unser Team steht Ihnen zur Seite, um Ihnen eine klare, transparente und auf Ihre finanzielle Situation zugeschnittene Lösung anzubieten."
         ]
       },
@@ -1298,7 +1302,7 @@ export const de = {
           "Das Studiendarlehen ist ein Kredit, der speziell darauf ausgelegt ist, Studierenden bei der Finanzierung ihres Studiums und der damit verbundenen Ausgaben zu helfen.",
           "Im Gegensatz zu einem herkömmlichen Darlehen kann die Rückzahlung während der Studiendauer aufgeschoben werden, damit sich der Studierende ganz auf sein Studium konzentrieren kann.",
           "Nach Abschluss des Studiums beginnt die Rückzahlung des Darlehens gemäß den bei Vertragsabschluss festgelegten Bedingungen.",
-          "Bei Fab Finance bieten wir einfache, transparente und auf die Lebensumstände von Studierenden zugeschnittene Finanzierungslösungen an."
+          "Bei ISEUT Finance bieten wir einfache, transparente und auf die Lebensumstände von Studierenden zugeschnittene Finanzierungslösungen an."
         ]
       },
       "usages": [
@@ -1334,7 +1338,7 @@ export const de = {
           "Der Autokredit ist ein zweckgebundener Kredit, mit dem der Kauf eines Neu- oder Gebrauchtwagens finanziert werden kann.",
           "Damit können Sie die Kosten für Ihr Auto auf mehrere Monate oder Jahre verteilen, um Ihre Sparfähigkeit zu erhalten.",
           "Die Höhe der monatlichen Raten hängt von der Kreditsumme, der Laufzeit des Kredits und dem geltenden Zinssatz ab.",
-          "Bei Fab Finance können Sie Ihren Autokredit online simulieren und erhalten umgehend eine vorläufige Zusage."
+          "Bei ISEUT Finance können Sie Ihren Autokredit online simulieren und erhalten umgehend eine vorläufige Zusage."
         ]
       },
       "usages": [
@@ -1370,7 +1374,7 @@ export const de = {
           "Mit einem Geschäftskredit können Unternehmen und Selbstständige ihre Investitionen und ihre Expansion finanzieren.",
           "Er kann zur Finanzierung des Kaufs von Ausrüstung, der Einrichtung von Räumlichkeiten, der Einstellung von Personal oder auch der Einführung eines neuen Projekts dienen.",
           "Die Laufzeit und die Höhe des Darlehens hängen vom Projekt, der Rückzahlungsfähigkeit des Unternehmens und etwaigen Sicherheiten ab.",
-          "Bei Fab Finance bieten wir transparente Finanzierungslösungen an, die auf die Bedürfnisse von Gewerbetreibenden zugeschnitten sind."
+          "Bei ISEUT Finance bieten wir transparente Finanzierungslösungen an, die auf die Bedürfnisse von Gewerbetreibenden zugeschnitten sind."
         ]
       },
       "usages": [
@@ -1406,7 +1410,7 @@ export const de = {
           "Ein Verbraucherkredit ist ein Darlehen, das Privatpersonen zur Finanzierung von Gütern oder Dienstleistungen für den persönlichen Gebrauch gewährt wird.",
           "Er unterscheidet sich vom Immobilienkredit dadurch, dass er in der Regel geringere Beträge und kürzere Laufzeiten betrifft.",
           "Die Rückzahlung erfolgt in Form von festen monatlichen Raten, die sich aus einem Teil des geliehenen Kapitals und den Zinsen zusammensetzen.",
-          "Mit den Online-Simulationstools von Fab Finance lässt sich schnell ermitteln, welche monatlichen Raten zum eigenen Budget passen."
+          "Mit den Online-Simulationstools von ISEUT Finance lässt sich schnell ermitteln, welche monatlichen Raten zum eigenen Budget passen."
         ]
       },
       "usages": [
@@ -1442,7 +1446,7 @@ export const de = {
           "Bei einer Kreditumschuldung werden mehrere laufende Kredite zu einem einzigen Kredit mit einer einzigen monatlichen Rate zusammengefasst.",
           "Diese Lösung ermöglicht es Ihnen, Ihre Finanzen einfacher zu verwalten und die Höhe der monatlichen Raten an Ihre Rückzahlungsmöglichkeiten anzupassen.",
           "Die Umschuldung kann verschiedene Kreditarten betreffen: Privatkredit, Autokredit oder Verbraucherkredit.",
-          "Bei Fab Finance analysiert unser Team Ihre finanzielle Situation, um Ihnen eine auf Ihr Budget zugeschnittene Lösung zur Umschuldung anzubieten."
+          "Bei ISEUT Finance analysiert unser Team Ihre finanzielle Situation, um Ihnen eine auf Ihr Budget zugeschnittene Lösung zur Umschuldung anzubieten."
         ]
       },
       "usages": [
@@ -1523,7 +1527,7 @@ export const de = {
   "loanTrust": {
     "eyebrow": "Sozialer Beweis",
     "title": "Sie vertrauen uns",
-    "subtitle": "Über 200.000 mit Fab Finance finanzierte Projekte",
+    "subtitle": "Über 200.000 mit ISEUT Finance finanzierte Projekte",
     "stats": [
       {
         "label": "finanzierte Projekte"
@@ -1594,19 +1598,19 @@ export const de = {
     "quickMessages": [
       {
         "label": "Einen Privatkredit beantragen",
-        "msg": "Hallo Fab Finance 👋 Ich möchte einen Privatkredit aufnehmen. Können Sie mir dabei helfen?"
+        "msg": "Hallo ISEUT Finance 👋 Ich möchte einen Privatkredit aufnehmen. Können Sie mir dabei helfen?"
       },
       {
         "label": "Autokredit simulieren",
-        "msg": "Hallo Fab Finance 👋 Ich möchte einen Autokredit simulieren. Können Sie mir dabei helfen?"
+        "msg": "Hallo ISEUT Finance 👋 Ich möchte einen Autokredit simulieren. Können Sie mir dabei helfen?"
       },
       {
         "label": "Meine monatlichen Raten erfahren",
-        "msg": "Hallo Fab Finance 👋 Ich würde gerne wissen, wie hoch meine monatlichen Raten für ein Finanzierungsprojekt wären."
+        "msg": "Hallo ISEUT Finance 👋 Ich würde gerne wissen, wie hoch meine monatlichen Raten für ein Finanzierungsprojekt wären."
       },
       {
         "label": "Meine Akte verfolgen",
-        "msg": "Hallo Fab Finance 👋 Ich würde gerne wissen, wie es mit meinem Kreditantrag steht."
+        "msg": "Hallo ISEUT Finance 👋 Ich würde gerne wissen, wie es mit meinem Kreditantrag steht."
       }
     ],
     "tooltip": "Brauchst du Hilfe? 👋",

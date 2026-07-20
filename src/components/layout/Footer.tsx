@@ -74,7 +74,7 @@ export function Footer() {
                 <Landmark className="w-4 h-4" />
               </div>
               <span className="font-extrabold text-xl text-white tracking-tight">
-                Fab<span className="text-green-500">Finance</span>
+                ISEUT<span className="text-green-500">Finance</span>
               </span>
             </Link>
 
@@ -85,9 +85,9 @@ export function Footer() {
             {/* Contact rapide */}
             <div className="space-y-2.5">
               {[
-                { icon: Phone,  text: "+33 753 959 516" },
-                { icon: Mail,   text: "contact@fab-financeaide.com" },
-                { icon: MapPin, text: "67140 Barr, France" },
+                { icon: Phone,  text: "+33 7 76 41 67 05" },
+                { icon: Mail,   text: "contact@iseutfinance.com" },
+                { icon: MapPin, text: "75009, Trudaine, Paris, France" },
               ].map(({ icon: Icon, text }) => (
                 <div key={text} className="flex items-center gap-2.5 text-sm text-gray-500">
                   <Icon className="w-3.5 h-3.5 text-green-500 flex-shrink-0" />
@@ -204,7 +204,7 @@ export function Footer() {
           </p>
 
           <p className="text-xs text-gray-700 flex-shrink-0">
-            © {year} FabFinance · {t.footer.rights}
+            © {year} ISEUT Finance · {t.footer.rights}
           </p>
 
         </div>

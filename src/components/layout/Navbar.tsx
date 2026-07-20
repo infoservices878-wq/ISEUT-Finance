@@ -76,7 +76,7 @@ export function Navbar() {
             <Landmark className="w-4.5 h-4.5" />
           </div>
           <span className="font-extrabold text-xl tracking-tight text-gray-900">
-            Fab<span className="text-green-600">Finance</span>
+            ISEUT<span className="text-green-600">Finance</span>
           </span>
         </Link>
 

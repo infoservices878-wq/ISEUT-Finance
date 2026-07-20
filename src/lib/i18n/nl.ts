@@ -192,10 +192,10 @@ export const nl = {
     ]
   },
   "mission": {
-    "badge": "Fab Finance & jij",
+    "badge": "ISEUT Finance & jij",
     "title": "Financiering die",
     "titleHighlight": "het verschil maakt",
-    "text1": "Bij Fab Finance zetten we onze expertise in voor jouw levensprojecten. Persoonlijke leningen, consumptief krediet, autoleningen en schuldconsolidatie: eenvoudige, transparante oplossingen die bij elke situatie passen.",
+    "text1": "Bij ISEUT Finance zetten we onze expertise in voor jouw levensprojecten. Persoonlijke leningen, consumptief krediet, autoleningen en schuldconsolidatie: eenvoudige, transparante oplossingen die bij elke situatie passen.",
     "text2": "Onze missie is financiering toegankelijker te maken via innovatieve digitale tools en menselijke ondersteuning in elke stap.",
     "cta": "Ontdek onze missie",
     "stats": {
@@ -226,7 +226,7 @@ export const nl = {
   "whyChooseUs": {
     "badge": "Onze beloftes",
     "title": "Waarom kiezen voor",
-    "titleHighlight": "Fab Finance?",
+    "titleHighlight": "ISEUT Finance?",
     "subtitle": "Technologie en menselijke expertise gecombineerd voor een eenvoudige, snelle en betrouwbare financieringservaring.",
     "items": [
       {
@@ -277,7 +277,7 @@ export const nl = {
     "badge": "Sociale bewijskracht",
     "title": "Vertrouwd door",
     "titleHighlight": "duizenden",
-    "subtitle": "Duizenden klanten vertrouwen op Fab Finance voor de financiering van hun persoonlijke en zakelijke projecten.",
+    "subtitle": "Duizenden klanten vertrouwen op ISEUT Finance voor de financiering van hun persoonlijke en zakelijke projecten.",
     "certifiedBy": "Erkend en gecertificeerd door",
     "stats": [
       {
@@ -313,7 +313,7 @@ export const nl = {
       {
         "name": "Claire Dupont",
         "role": "Renovatie · €25.000",
-        "text": "Echt professionele, responsieve klantenservice. Ze ondersteunden me van begin tot eind bij het financieren van mijn renovatie. Bedankt, Fab Finance!"
+        "text": "Echt professionele, responsieve klantenservice. Ze ondersteunden me van begin tot eind bij het financieren van mijn renovatie. Bedankt, ISEUT Finance!"
       }
     ]
   },
@@ -343,7 +343,7 @@ export const nl = {
       },
       {
         "q": "Zijn er aanvraagkosten?",
-        "a": "Ja. Fab Finance rekent aanvraagkosten, die zeer laag zijn. De simulatie is gratis en niet-bindend. Je betaalt alleen de rente die in je contract is vastgelegd."
+        "a": "Ja. ISEUT Finance rekent aanvraagkosten, die zeer laag zijn. De simulatie is gratis en niet-bindend. Je betaalt alleen de rente die in je contract is vastgelegd."
       },
       {
         "q": "Wat is het maximale bedrag dat ik kan lenen?",
@@ -365,7 +365,7 @@ export const nl = {
       "secure": "100% veilig",
       "clients": "+200.000 tevreden klanten"
     },
-    "legal": "Een lening is een verplichting en moet worden terugbetaald. Controleer je terugbetalingscapaciteit voordat je tekent. Fab Finance — ORIAS nr. 14 001 728."
+    "legal": "Een lening is een verplichting en moet worden terugbetaald. Controleer je terugbetalingscapaciteit voordat je tekent. ISEUT Finance — ORIAS nr. 14 001 728."
   },
   "simulator": {
     "title": "Simuleer je lening",
@@ -490,9 +490,9 @@ export const nl = {
     "title": "Hoe je je lening krijgt",
     "subtitle": "Van simulatie tot overboeking, ontdek elke stap.",
     "steps": "6 eenvoudige stappen",
-    "journey": "De Fab Finance reis",
+    "journey": "De ISEUT Finance reis",
     "guarantee": "Onze beloftes",
-    "whyUs": "Waarom Fab Finance kiezen?",
+    "whyUs": "Waarom ISEUT Finance kiezen?",
     "cta": "Start mijn simulatie",
     "ctaSub": "Gratis · Geen verplichting · Reactie binnen 2 minuten",
     "hero": {
@@ -543,7 +543,7 @@ export const nl = {
       {
         "title": "Beoordeling van uw dossier",
         "subtitle": "Antwoord binnen 24 uur",
-        "desc": "Een toegewijde adviseur van Fab Finance bekijkt uw dossier en neemt telefonisch of via WhatsApp contact met u op om uw offerte verder uit te werken en al uw vragen te beantwoorden.",
+        "desc": "Een toegewijde adviseur van ISEUT Finance bekijkt uw dossier en neemt telefonisch of via WhatsApp contact met u op om uw offerte verder uit te werken en al uw vragen te beantwoorden.",
         "details": [
           "Toegewezen persoonlijke adviseur",
           "Contact via telefoon of WhatsApp",
@@ -624,7 +624,7 @@ export const nl = {
       },
       {
         "q": "Kan ik de voortgang van mijn dossier volgen?",
-        "a": "Ja. Uw Fab Finance-adviseur houdt u in elke fase op de hoogte via de telefoon, e-mail of WhatsApp. U kunt op elk moment rechtstreeks contact met hem of haar opnemen."
+        "a": "Ja. Uw ISEUT Finance-adviseur houdt u in elke fase op de hoogte via de telefoon, e-mail of WhatsApp. U kunt op elk moment rechtstreeks contact met hem of haar opnemen."
       }
     ],
     "finalCta": {
@@ -638,7 +638,7 @@ export const nl = {
   "about": {
     "badge": "Ons verhaal",
     "title": "Een fintech gewijd aan jouw projecten",
-    "subtitle": "Sinds 2016 ondersteunt Fab Finance particulieren en bedrijven bij hun financieringsprojecten.",
+    "subtitle": "Sinds 2016 ondersteunt ISEUT Finance particulieren en bedrijven bij hun financieringsprojecten.",
     "mission": "Onze missie",
     "values": "Onze waarden",
     "team": "Ons team",
@@ -647,7 +647,7 @@ export const nl = {
       "badge": "Opgericht in 2016 · Parijs",
       "title": "Krediet op een nieuwe manier benaderen",
       "titleHighlight": "voor iedereen",
-      "subtitle": "Fab Finance heeft zich ten doel gesteld financiering toegankelijk, transparant en eerlijk te maken. Gedaan met de traditionele complexiteit van het bankwezen."
+      "subtitle": "ISEUT Finance heeft zich ten doel gesteld financiering toegankelijk, transparant en eerlijk te maken. Gedaan met de traditionele complexiteit van het bankwezen."
     },
     "stats": [
       {
@@ -711,7 +711,7 @@ export const nl = {
       "eyebrow": "Onze geschiedenis",
       "title": "8 jaar innovatie",
       "events": [
-        "Oprichting van Fab Finance in Parijs met een duidelijke missie: krediet toegankelijk maken voor iedereen.",
+        "Oprichting van ISEUT Finance in Parijs met een duidelijke missie: krediet toegankelijk maken voor iedereen.",
         "Lancering van de online simulator — een principeantwoord binnen 2 minuten.",
         "De grens van 100.000 klanten is overschreden en de ORIAS-vergunning is verkregen.",
         "Uitbreiding in Europa en de introductie van zakelijke en studieleningen.",
@@ -720,7 +720,7 @@ export const nl = {
     },
     "finalCta": {
       "title": "Doe mee aan het avontuur",
-      "subtitle": "Al meer dan een miljoen klanten vertrouwen op ons. Nu is het uw beurt om uw projecten te realiseren met Fab Finance."
+      "subtitle": "Al meer dan een miljoen klanten vertrouwen op ons. Nu is het uw beurt om uw projecten te realiseren met ISEUT Finance."
     }
   },
   "contact": {
@@ -827,7 +827,7 @@ export const nl = {
   },
   "mentionsLegales": {
     "pageTitle": "Wettelijke vermeldingen",
-    "pageSubtitle": "Wettelijke en regelgevende informatie met betrekking tot Fab Finance en het gebruik van deze website.",
+    "pageSubtitle": "Wettelijke en regelgevende informatie met betrekking tot ISEUT Finance en het gebruik van deze website.",
     "lastUpdate": "Laatste update:",
     "summary": "Inhoudsopgave",
     "sections": [
@@ -836,7 +836,7 @@ export const nl = {
         "rows": [
           [
             "Bedrijfsnaam",
-            "Fab Finance"
+            "ISEUT Finance"
           ],
           [
             "Rechtsvorm",
@@ -848,11 +848,15 @@ export const nl = {
           ],
           [
             "Hoofdkantoor",
-            "52 RUE DU DOCTEUR SULTZER 67140 BARR"
+            "31 AVENUE TRUDAINE 75009 PARIJS"
           ],
           [
             "SIREN",
-            "524581873"
+            "824922561"
+          ],
+          [
+            "BTW-nummer",
+            "FR02824922561"
           ],
           [
             "RCS",
@@ -864,11 +868,15 @@ export const nl = {
           ],
           [
             "Toezichthoudende autoriteit",
-            "ACPR – Banque de France"
+            "ACPR – Bank van Frankrijk"
           ],
           [
             "Voorzitter van SAS",
-            "TOWAE Fabienne"
+            "Dewitte Tristan"
+          ],
+          [
+            "Voorzitter van SAS",
+            "Tristan Dewitte"
           ]
         ]
       },
@@ -877,15 +885,15 @@ export const nl = {
         "rows": [
           [
             "Webhost",
-            "Vercel Inc."
+            "Hostinger"
           ],
           [
             "Adres",
-            "440 N Barranca Ave, Covina, CA"
+            "Švitrigailos-straat 34, 03230, Vilnius, Litouwen"
           ],
           [
             "Website",
-            "www.vercel.com"
+            "www.hostinger.com"
           ]
         ]
       },
@@ -894,15 +902,15 @@ export const nl = {
         "rows": [
           [
             "E-mail",
-            "contact@fab-financeaide.com"
+            "contact@iseutfinance.com"
           ],
           [
             "Telefoon",
-            "+33 753 959 516 (gratis nummer)"
+            "+33 7 76 41 67 05 (gratis nummer)"
           ],
           [
             "Post",
-            "52 RUE DU DOCTEUR SULTZER 67140 BARR"
+            "31 AVENUE TRUDAINE 75009 PARIJS"
           ],
           [
             "Openingstijden",
@@ -913,26 +921,26 @@ export const nl = {
       {
         "title": "Gereguleerde activiteit",
         "paragraphs": [
-          "Fab Finance SAS is ingeschreven als tussenpersoon voor banktransacties en betalingsdiensten (IOBSP) in het ORIAS-register onder nummer 14 001 728, te raadplegen op www.orias.fr.",
-          "In die hoedanigheid staat Fab Finance onder toezicht van de Autorité de Contrôle Prudentiel et de Résolution (ACPR), het toezichthoudende orgaan van de Banque de France, gevestigd te 4 Place de Budapest, CS 92459, 75436 Paris Cedex 09.",
-          "Fab Finance is gedekt door een beroepsaansprakelijkheidsverzekering en beschikt over een financiële garantie overeenkomstig de bepalingen van artikel L.519-1 en volgende van het Monetaire en Financiële Wetboek."
+          "ISEUT Finance SAS is ingeschreven als tussenpersoon voor banktransacties en betalingsdiensten (IOBSP) in het ORIAS-register onder nummer 14 001 728, te raadplegen op www.orias.fr.",
+          "In die hoedanigheid staat ISEUT Finance onder toezicht van de Autorité de Contrôle Prudentiel et de Résolution (ACPR), het toezichthoudende orgaan van de Bank van Frankrijk, gevestigd te 4 Place de Budapest, CS 92459, 75436 Paris Cedex 09.",
+          "ISEUT Finance is gedekt door een beroepsaansprakelijkheidsverzekering en beschikt over een financiële garantie overeenkomstig de bepalingen van artikel L.519-1 en volgende van het Monetaire en Financiële Wetboek."
         ]
       },
       {
         "title": "Intellectueel eigendom",
         "paragraphs": [
-          "Alle onderdelen waaruit de website van Fab Finance bestaat (teksten, grafische elementen, software, foto’s, afbeeldingen, geluiden, plattegronden, namen, logo’s, merken, creaties en diverse beschermbare werken) zijn het exclusieve eigendom van Fab Finance SAS of haar partners.",
-          "Elke reproductie, weergave, wijziging, publicatie of aanpassing van alle of een deel van de elementen van de website, ongeacht de gebruikte middelen of methoden, is verboden, tenzij Fab Finance SAS hiervoor vooraf schriftelijk toestemming heeft gegeven.",
+          "Alle onderdelen waaruit de website van ISEUT Finance bestaat (teksten, grafische elementen, software, foto’s, afbeeldingen, geluiden, plattegronden, namen, logo’s, merken, creaties en diverse beschermbare werken) zijn het exclusieve eigendom van ISEUT Finance SAS of haar partners.",
+          "Elke reproductie, weergave, wijziging, publicatie of aanpassing van alle of een deel van de elementen van de website, ongeacht de gebruikte middelen of methoden, is verboden, tenzij ISEUT Finance SAS hiervoor vooraf schriftelijk toestemming heeft gegeven.",
           "Elk ongeoorloofd gebruik van de website of van enig onderdeel daarvan wordt beschouwd als een inbreuk op het auteursrecht en zal worden vervolgd overeenkomstig de bepalingen van artikel L.335-2 en volgende van het Wetboek van intellectueel eigendom."
         ]
       },
       {
         "title": "Beperking van aansprakelijkheid",
         "paragraphs": [
-          "Fab Finance streeft ernaar om de informatie op deze website zo nauwkeurig en actueel mogelijk te houden. Fab Finance kan echter geen garantie bieden voor de juistheid, nauwkeurigheid of volledigheid van de informatie die op deze website wordt aangeboden.",
+          "ISEUT Finance streeft ernaar om de informatie op deze website zo nauwkeurig en actueel mogelijk te houden. ISEUT Finance kan echter geen garantie bieden voor de juistheid, nauwkeurigheid of volledigheid van de informatie die op deze website wordt aangeboden.",
           "De simulaties op deze website zijn louter ter indicatie en hebben geen contractuele waarde. Ze vormen geen kredietaanbod. Elk besluit tot toekenning van een krediet wordt genomen na een grondige beoordeling van het dossier door onze adviseurs.",
-          "Fab Finance wijst elke aansprakelijkheid af voor schade die voortvloeit uit frauduleuze inbraak door een derde, waardoor de op de website beschikbare informatie is gewijzigd.",
-          "Deze website kan hyperlinks bevatten naar andere websites waarover Fab Finance geen controle heeft. Fab Finance aanvaardt geen enkele aansprakelijkheid voor de inhoud van deze websites."
+          "ISEUT Finance wijst elke aansprakelijkheid af voor schade die voortvloeit uit frauduleuze inbraak door een derde, waardoor de op de website beschikbare informatie is gewijzigd.",
+          "Deze website kan hyperlinks bevatten naar andere websites waarover ISEUT Finance geen controle heeft. ISEUT Finance aanvaardt geen enkele aansprakelijkheid voor de inhoud van deze websites."
         ]
       },
       {
@@ -957,7 +965,7 @@ export const nl = {
         "title": "Toepasselijk recht en bevoegde rechtbank",
         "paragraphs": [
           "Deze website en de wettelijke vermeldingen daarop vallen onder het Franse recht. In geval van een geschil, en na een poging tot minnelijke schikking, zijn uitsluitend de Franse rechtbanken bevoegd.",
-          "Overeenkomstig artikel L.612-1 van het Consumentenwetboek heeft elke consument het recht om kosteloos een beroep te doen op een consumentenbemiddelaar met het oog op een minnelijke schikking van het geschil dat hem met een ondernemer verdeelt. Fab Finance is aangesloten bij de bemiddelingsdienst.",
+          "Overeenkomstig artikel L.612-1 van het Consumentenwetboek heeft elke consument het recht om kosteloos een beroep te doen op een consumentenbemiddelaar met het oog op een minnelijke schikking van het geschil dat hem met een ondernemer verdeelt. ISEUT Finance is aangesloten bij de bemiddelingsdienst.",
           "U kunt ook gebruikmaken van het Europese platform voor online geschillenbeslechting, dat u kunt vinden op: https://ec.europa.eu/consumers/odr"
         ]
       }
@@ -968,15 +976,15 @@ export const nl = {
     "badge": "AVG · Wet op de gegevensbescherming",
     "pageSubtitle": "Hoe wij uw persoonsgegevens verzamelen, gebruiken en beschermen.",
     "rgpdBoxTitle": "Uw gegevens zijn beveiligd",
-    "rgpdBoxText": "Fab Finance voldoet aan de Algemene Verordening Gegevensbescherming (AVG – EU 2016/679). Uw gegevens worden nooit verkocht en worden met de grootste zorg behandeld.",
+    "rgpdBoxText": "ISEUT Finance voldoet aan de Algemene Verordening Gegevensbescherming (AVG – EU 2016/679). Uw gegevens worden nooit verkocht en worden met de grootste zorg behandeld.",
     "footerText": "Als u uw rechten wilt uitoefenen of vragen hebt over dit beleid, kunt u contact opnemen met onze functionaris voor gegevensbescherming via",
     "modifDateLabel": "Datum van de laatste update:",
     "sections": [
       {
         "title": "Verantwoordelijke voor de verwerking",
         "paragraphs": [
-          "Fab Finance SAS, ingeschreven in het handelsregister van Parijs onder nummer 524581873, met maatschappelijke zetel te 52 RUE DU DOCTEUR SULTZER, 67140 BARR, is verantwoordelijk voor de verwerking van uw persoonsgegevens die via deze website worden verzameld.",
-          "Onze functionaris voor gegevensbescherming (DPO) is bereikbaar via het volgende e-mailadres: dpo@fab-financeaide.com"
+          "ISEUT Finance SAS, ingeschreven in het handelsregister van Parijs onder nummer 824922561, met maatschappelijke zetel te 31 AVENUE TRUDAINE 75009 PARIS, is verantwoordelijk voor de verwerking van uw persoonsgegevens die via deze website worden verzameld.",
+          "Onze functionaris voor gegevensbescherming (DPO) is bereikbaar via het volgende e-mailadres: dpo@iseutfinance.com"
         ]
       },
       {
@@ -1044,13 +1052,13 @@ export const nl = {
       {
         "title": "Ontvangers van de gegevens",
         "paragraphs": [
-          "Uw gegevens worden uitsluitend verwerkt door Fab Finance SAS en haar technische verwerkers, uitsluitend in het kader van de uitvoering van de dienst. Ze worden nooit aan derden verkocht.",
+          "Uw gegevens worden uitsluitend verwerkt door ISEUT Finance SAS en haar technische verwerkers, uitsluitend in het kader van de uitvoering van de dienst. Ze worden nooit aan derden verkocht.",
           "De onderaannemers waarmee wij samenwerken, zijn contractueel verplicht om de vertrouwelijkheid en veiligheid van uw gegevens te waarborgen, overeenkomstig artikel 28 van de AVG."
         ],
         "rows": [
           [
             "Accommodatie",
-            "Vercel Inc. (servers in de EU)"
+            "Hostinger (servers in de EU)"
           ],
           [
             "E-mails versturen",
@@ -1095,7 +1103,7 @@ export const nl = {
       },
       {
         "title": "Gegevensbeveiliging",
-        "intro": "Fab Finance neemt passende technische en organisatorische maatregelen om uw gegevens te beschermen tegen verlies, vernietiging, wijziging, ongeoorloofde toegang of openbaarmaking.",
+        "intro": "ISEUT Finance neemt passende technische en organisatorische maatregelen om uw gegevens te beschermen tegen verlies, vernietiging, wijziging, ongeoorloofde toegang of openbaarmaking.",
         "rows": [
           [
             "Versleuteling",
@@ -1150,7 +1158,7 @@ export const nl = {
           ]
         ],
         "paragraphs2": [
-          "Om uw rechten uit te oefenen, kunt u per e-mail contact opnemen met onze functionaris voor gegevensbescherming via dpo@fab-financeaide.com, met een kopie van uw identiteitsbewijs in de bijlage. Wij zullen binnen een maand na ontvangst van uw verzoek reageren.",
+          "Om uw rechten uit te oefenen, kunt u per e-mail contact opnemen met onze functionaris voor gegevensbescherming via dpo@iseutfinance.com, met een kopie van uw identiteitsbewijs in de bijlage. Wij zullen binnen een maand na ontvangst van uw verzoek reageren.",
           "Als u van mening bent dat uw rechten niet worden gerespecteerd, kunt u een klacht indienen bij de CNIL: www.cnil.fr of 3 Place de Fontenoy, TSA 80715, 75334 Paris Cedex 07."
         ]
       },
@@ -1177,7 +1185,7 @@ export const nl = {
       {
         "title": "Wijzigingen in het beleid",
         "paragraphs": [
-          "Fab Finance behoudt zich het recht voor om dit privacybeleid te allen tijde te wijzigen, met name om te voldoen aan eventuele wijzigingen op het gebied van wetgeving, jurisprudentie, publicaties of techniek.",
+          "ISEUT Finance behoudt zich het recht voor om dit privacybeleid te allen tijde te wijzigen, met name om te voldoen aan eventuele wijzigingen op het gebied van wetgeving, jurisprudentie, publicaties of techniek.",
           "In geval van een wezenlijke wijziging wordt u hiervan op de hoogte gesteld via e-mail of via een zichtbare banner op de website. De geldende versie is altijd te raadplegen via de voettekst van de website."
         ]
       }
@@ -1239,7 +1247,7 @@ export const nl = {
   },
   "loanHero": {
     "badge": "Direct antwoord · Vrijblijvend",
-    "fallbackTaglinePrefix": "De oplossing van Fab Finance voor",
+    "fallbackTaglinePrefix": "De oplossing van ISEUT Finance voor",
     "fallbackTaglineSuffix": "transparantie, snelheid en persoonlijke begeleiding bij al uw projecten.",
     "trustResponseTime": "Antwoord binnen 2 minuten"
   },
@@ -1261,7 +1269,7 @@ export const nl = {
         "paragraphs": [
           "Een persoonlijke lening is een flexibele financieringsoplossing waarmee u verschillende projecten kunt financieren zonder dat u hoeft aan te tonen waarvoor u het geld gebruikt.",
           "Of het nu gaat om het financieren van verbouwingen, een reis of het opvangen van onvoorziene uitgaven: met deze lening beschikt u snel over een geldbedrag.",
-          "Bij Fab Finance kunt u binnen enkele seconden online een lening simuleren om te zien hoe hoog uw maandelijkse aflossingen zullen zijn.",
+          "Bij ISEUT Finance kunt u binnen enkele seconden online een lening simuleren om te zien hoe hoog uw maandelijkse aflossingen zullen zijn.",
           "Ons team staat u bij om u een duidelijke, transparante oplossing aan te bieden die is afgestemd op uw financiële situatie."
         ]
       },
@@ -1298,7 +1306,7 @@ export const nl = {
           "De studielening is een lening die speciaal is bedoeld om studenten te helpen bij de financiering van hun studie en de kosten die daarmee gepaard gaan.",
           "In tegenstelling tot een klassieke lening kan de terugbetaling tijdens de studieperiode worden uitgesteld, zodat de student zich volledig op zijn opleiding kan concentreren.",
           "Zodra de studie is afgerond, begint de aflossing van de lening volgens de voorwaarden die bij het afsluiten zijn vastgelegd.",
-          "Bij Fab Finance bieden we eenvoudige, transparante financieringsoplossingen die zijn afgestemd op de dagelijkse realiteit van studenten."
+          "Bij ISEUT Finance bieden we eenvoudige, transparante financieringsoplossingen die zijn afgestemd op de dagelijkse realiteit van studenten."
         ]
       },
       "usages": [
@@ -1334,7 +1342,7 @@ export const nl = {
           "Een autolening is een speciale lening waarmee de aankoop van een nieuwe of tweedehands auto kan worden gefinancierd.",
           "Hiermee kunt u de kosten van uw auto over meerdere maanden of jaren spreiden, zodat u meer kunt sparen.",
           "De hoogte van de maandelijkse aflossingen hangt af van het geleende bedrag, de looptijd van de lening en de toegepaste rentevoet.",
-          "Bij Fab Finance kunt u online een simulatie van uw autolening maken en snel een voorlopige toezegging krijgen."
+          "Bij ISEUT Finance kunt u online een simulatie van uw autolening maken en snel een voorlopige toezegging krijgen."
         ]
       },
       "usages": [
@@ -1370,7 +1378,7 @@ export const nl = {
           "Met een zakelijke lening kunnen bedrijven en zelfstandigen hun investeringen en groei financieren.",
           "Het kan worden gebruikt om de aanschaf van apparatuur, de inrichting van een ruimte, de aanwerving van personeel of de start van een nieuw project te financieren.",
           "De looptijd en het bedrag van de lening zijn afhankelijk van het project, de terugbetalingscapaciteit van het bedrijf en eventuele zekerheden.",
-          "Bij Fab Finance bieden we duidelijke financieringsoplossingen die zijn afgestemd op de behoeften van ondernemers."
+          "Bij ISEUT Finance bieden we duidelijke financieringsoplossingen die zijn afgestemd op de behoeften van ondernemers."
         ]
       },
       "usages": [
@@ -1406,7 +1414,7 @@ export const nl = {
           "Een consumentenkrediet is een lening die aan particulieren wordt verstrekt om goederen of diensten voor persoonlijk gebruik te financieren.",
           "Het verschilt van een hypotheek omdat het doorgaans om lagere bedragen en kortere aflossingstermijnen gaat.",
           "De terugbetaling vindt plaats in de vorm van vaste maandelijkse termijnen die bestaan uit een deel van de geleende hoofdsom en de rente.",
-          "Met behulp van de online simulatietools van Fab Finance kunt u snel achterhalen welk maandelijks aflossingsbedrag bij uw budget past."
+          "Met behulp van de online simulatietools van ISEUT Finance kunt u snel achterhalen welk maandelijks aflossingsbedrag bij uw budget past."
         ]
       },
       "usages": [
@@ -1442,7 +1450,7 @@ export const nl = {
           "Bij een krediethergroepering worden meerdere lopende leningen samengevoegd tot één enkele lening met één maandelijkse aflossing.",
           "Met deze oplossing kunt u het beheer van uw financiën vereenvoudigen en de hoogte van de maandelijkse aflossingen afstemmen op uw aflossingscapaciteit.",
           "De samenvoeging kan betrekking hebben op verschillende soorten leningen: persoonlijke leningen, autoleningen of consumptieve kredieten.",
-          "Bij Fab Finance analyseert ons team uw financiële situatie om u een oplossing voor het samenvoegen van uw leningen aan te bieden die bij uw budget past."
+          "Bij ISEUT Finance analyseert ons team uw financiële situatie om u een oplossing voor het samenvoegen van uw leningen aan te bieden die bij uw budget past."
         ]
       },
       "usages": [
@@ -1523,7 +1531,7 @@ export const nl = {
   "loanTrust": {
     "eyebrow": "Sociaal bewijs",
     "title": "Ze vertrouwen ons",
-    "subtitle": "Meer dan 200.000 projecten gefinancierd met Fab Finance",
+    "subtitle": "Meer dan 200.000 projecten gefinancierd met ISEUT Finance",
     "stats": [
       {
         "label": "gefinancierde projecten"
@@ -1594,19 +1602,19 @@ export const nl = {
     "quickMessages": [
       {
         "label": "Een persoonlijke lening aanvragen",
-        "msg": "Hallo Fab Finance 👋 Ik wil graag een persoonlijke lening afsluiten. Kunt u mij daarbij helpen?"
+        "msg": "Hallo ISEUT Finance 👋 Ik wil graag een persoonlijke lening afsluiten. Kunt u mij daarbij helpen?"
       },
       {
         "label": "Een autolening simuleren",
-        "msg": "Hallo Fab Finance 👋 Ik wil graag een autolening simuleren. Kunt u mij daarbij helpen?"
+        "msg": "Hallo ISEUT Finance 👋 Ik wil graag een autolening simuleren. Kunt u mij daarbij helpen?"
       },
       {
         "label": "Mijn maandelijkse aflossingen bekijken",
-        "msg": "Hallo Fab Finance 👋 Ik zou graag willen weten wat mijn maandelijkse aflossingen zijn voor een financieringsproject."
+        "msg": "Hallo ISEUT Finance 👋 Ik zou graag willen weten wat mijn maandelijkse aflossingen zijn voor een financieringsproject."
       },
       {
         "label": "Mijn dossier volgen",
-        "msg": "Hallo Fab Finance 👋 Ik zou graag graag op de hoogte worden gehouden van de stand van zaken met betrekking tot mijn leningaanvraag."
+        "msg": "Hallo ISEUT Finance 👋 Ik zou graag graag op de hoogte worden gehouden van de stand van zaken met betrekking tot mijn leningaanvraag."
       }
     ],
     "tooltip": "Hulp nodig? 👋",

@@ -441,7 +441,7 @@ export default function HowItWorks() {
             </Link>
 
             <a
-              href="https://wa.me/33612345678?text=Bonjour%20Fab Finance%2C%20je%20souhaite%20en%20savoir%20plus%20sur%20vos%20prêts."
+              href="https://wa.me/33612345678?text=Bonjour%20ISEUT Finance%2C%20je%20souhaite%20en%20savoir%20plus%20sur%20vos%20prêts."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2.5 px-8 py-4 rounded-xl font-bold text-white text-sm border border-white/20 bg-white/8 hover:bg-white/15 transition-all duration-200"

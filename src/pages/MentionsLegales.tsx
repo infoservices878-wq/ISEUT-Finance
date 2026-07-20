@@ -174,8 +174,8 @@ export default function MentionsLegales() {
           >
             <p className="text-xs text-gray-400 leading-relaxed max-w-2xl mx-auto mb-4">
               {s.footerContact}{" "}
-              <a href="mailto:legal@fab-financeaide.com" className="text-green-600 hover:underline font-medium">
-                legal@fab-financeaide.com
+              <a href="mailto:legal@iseutfinance.com" className="text-green-600 hover:underline font-medium">
+                legal@iseutfinance.com
               </a>
             </p>
             <div className="flex flex-wrap justify-center gap-4 text-xs text-gray-400">

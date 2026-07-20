@@ -88,7 +88,7 @@ export function I18nProvider({ children }: { children: ReactNode }) {
   // Redirect "/" → "/fr/"
   useEffect(() => {
     if (location === "/" || location === "") {
-      const saved = localStorage.getItem("Fab Finance_lang") as Language | null
+      const saved = localStorage.getItem("ISEUT Finance_lang") as Language | null
       const target = saved && LANGUAGES.find(l => l.code === saved) ? saved : "fr"
       navigate(`/${target}`, { replace: true })
     }
@@ -96,7 +96,7 @@ export function I18nProvider({ children }: { children: ReactNode }) {
 
   // Persister en localStorage
   useEffect(() => {
-    localStorage.setItem("Fab Finance_lang", lang)
+    localStorage.setItem("ISEUT Finance_lang", lang)
   }, [lang])
 
   const setLang = useCallback((newLang: Language) => {

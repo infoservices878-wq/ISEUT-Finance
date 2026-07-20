@@ -17,9 +17,9 @@ type ContactForm = {
 }
 
 const CONTACT_ICONS = [
-  { icon: MapPin, lines: ["52 RUE DU DOCTEUR SULTZER, 67140 BARR"],       color: "#16a34a", bg: "#f0fdf4" },
-  { icon: Phone,  lines: ["+33 753 959 516"],                              color: "#3b82f6", bg: "#eff6ff" },
-  { icon: Mail,   lines: ["contact@fab-financeaide.com"],                  color: "#8b5cf6", bg: "#f5f3ff" },
+  { icon: MapPin, lines: ["31 AVENUE TRUDAINE 75009 PARIS"],       color: "#16a34a", bg: "#f0fdf4" },
+  { icon: Phone,  lines: ["+33 7 76 41 67 05"],                              color: "#3b82f6", bg: "#eff6ff" },
+  { icon: Mail,   lines: ["contact@iseutfinance.com"],                  color: "#8b5cf6", bg: "#f5f3ff" },
 ]
 
 const inputClass =
@@ -388,7 +388,7 @@ export default function Contact() {
                     {/* RGPD */}
                     <p className="text-xs text-gray-400 leading-relaxed">
                       {s.form.rgpd1}{" "}
-                      <a href="politique-confidentialite" className="text-green-600 hover:underline">
+                      <a href={routes.privacy} className="text-green-600 hover:underline">
                         {s.form.rgpdLink}
                       </a>
                       {s.form.rgpd2}
