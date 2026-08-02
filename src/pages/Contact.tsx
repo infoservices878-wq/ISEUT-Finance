@@ -1,4 +1,5 @@
 import { useState } from "react"
+import emailjs from "@emailjs/browser"
 import { useForm } from "react-hook-form"
 import { zodResolver } from "@hookform/resolvers/zod"
 import { z } from "zod"
@@ -50,14 +51,31 @@ export default function Contact() {
   })
 
   const onSubmit = async (data: ContactForm) => {
-    setIsSubmitting(true)
-    await new Promise(r => setTimeout(r, 1500))
-    console.log("Form data:", data)
-    setIsSubmitting(false)
+  setIsSubmitting(true)
+  try {
+    await emailjs.send(
+      "service_3uwyixj",
+      "template_w6xyj6u",
+      {
+        firstName: data.firstName,
+        lastName:  data.lastName,
+        email:     data.email,
+        phone:     data.phone || "Non renseigné",
+        subject:   data.subject,
+        message:   data.message,
+      },
+      { publicKey: "jS88O71RdxO3SE1JN" }
+    )
     setIsSuccess(true)
     reset()
     setTimeout(() => setIsSuccess(false), 6000)
+  } catch (err) {
+    console.error("Erreur d'envoi:", err)
+    alert("Une erreur est survenue lors de l'envoi. Merci de réessayer ou de nous contacter directement par téléphone.")
+  } finally {
+    setIsSubmitting(false)
   }
+}
 
   return (
     <div className="min-h-screen bg-white">

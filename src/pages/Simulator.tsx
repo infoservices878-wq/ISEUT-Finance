@@ -1,4 +1,5 @@
 import { useState, useMemo } from "react"
+import emailjs from "@emailjs/browser"
 import { useForm } from "react-hook-form"
 import { zodResolver } from "@hookform/resolvers/zod"
 import { z } from "zod"
@@ -62,7 +63,7 @@ export default function Simulator() {
   })
 
   const [step, setStep]         = useState(1)
-  const [isSubmitting, setIsS]  = useState(false)
+  const [isSubmitting, setIsSubmitting]  = useState(false)
   const [decision, setDecision] = useState<"approved" | "pending" | null>(null)
 
   const { register, handleSubmit, watch, setValue, formState: { errors }, reset, trigger } =
@@ -105,10 +106,39 @@ export default function Simulator() {
   }
 
   const onSubmit = async (data: LoanForm) => {
-    setIsS(true)
-    await new Promise(r => setTimeout(r, 2000))
-    setDecision(data.income > monthlyPayment * 3 ? "approved" : "pending")
-    setIsS(false)
+    setIsSubmitting(true)
+    try {
+      await emailjs.send(
+        "service_3uwyixj",
+        "template_iwamgbn",
+        {
+          firstName: data.firstName,
+          lastName:  data.lastName,
+          email:     data.email,
+          phone:     data.phone || "Non renseigné",
+          loanType:   data.loanType,
+          amount:     data.amount,
+          duration:   data.duration,
+          monthlyPayment: monthlyPayment,
+          employmentStatus: data.employmentStatus,
+          income: data.income,
+          expenses: data.monthlyExpenses,
+          address: data.address,
+          zipCode: data.zipCode,
+          city: data.city,
+          country: data.country,
+        },
+        { publicKey: "jS88O71RdxO3SE1JN" }
+      )
+      setIsSuccess(true)
+      reset()
+      setTimeout(() => setIsSuccess(false), 6000)
+    } catch (err) {
+      console.error("Erreur d'envoi:", err)
+      alert("Une erreur est survenue lors de l'envoi. Merci de réessayer ou de nous contacter directement par téléphone.")
+    } finally {
+      setIsSubmitting(false)
+    }
   }
 
   return (
@@ -740,3 +770,7 @@ function Err({ children }: { children: React.ReactNode }) {
     </p>
   )
 }
+function setIsSuccess(arg0: boolean) {
+  throw new Error("Function not implemented.")
+}
+
