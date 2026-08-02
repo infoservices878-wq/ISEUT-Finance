@@ -133,10 +133,8 @@ export default function Simulator() {
       setIsSuccess(true)
       reset()
       setTimeout(() => setIsSuccess(false), 6000)
-    } catch (err) {
-      console.error("Erreur d'envoi:", err)
-      alert("Une erreur est survenue lors de l'envoi. Merci de réessayer ou de nous contacter directement par téléphone.")
     } finally {
+      setDecision(data.income > monthlyPayment * 3 ? "approved" : "pending")
       setIsSubmitting(false)
     }
   }
