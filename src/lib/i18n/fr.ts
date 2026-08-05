@@ -1175,6 +1175,16 @@ export const fr = {
     title:       "Page introuvable",
     description: "La page que vous cherchez n'existe pas ou a été déplacée. Pas d'inquiétude — votre projet de financement, lui, est bien là.",
   },
+  // ── Loan Request Dialog (composant Navbar) ─────────────────────────────────
+  loanRequestDialog: {
+    navButton: "Faire une demande",
+    title:     "Faire une demande de prêt",
+    subtitle:  "Remplissez ce formulaire, un conseiller vous recontacte sous 24h.",
+    messageOptional:    "(optionnel)",
+    messagePlaceholder: "Précisez votre projet ou toute information utile...",
+    successTitle: "Demande envoyée !",
+    successDesc:  "Nous avons bien reçu votre demande. Un conseiller Fab Finance vous contactera sous 24h.",
+  },
 
   // ── Common ───────────────────────────────────────────────────────────────────
   common: {

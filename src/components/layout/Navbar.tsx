@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "wouter";
 import { useI18n } from "@/lib/i18n-context";
+import LoanRequestDialog from "@/components/LoanRequestDialog"
 import {
   Menu, X, ChevronDown, Landmark,
   User, Briefcase, ShoppingCart, GraduationCap, Car, RefreshCw,
@@ -206,6 +207,7 @@ export function Navbar() {
           </div>
 
           {/* CTA */}
+          <LoanRequestDialog variant="desktop" />
           <Link
             href={routes.simulator}
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-bold text-white transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg"
@@ -344,6 +346,7 @@ export function Navbar() {
               </div>
 
               {/* Mobile CTA */}
+              <LoanRequestDialog variant="mobile" />
               <Link
                 href={routes.simulator}
                 onClick={closeMobile}

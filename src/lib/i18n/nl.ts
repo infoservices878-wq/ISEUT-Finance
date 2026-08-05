@@ -1619,5 +1619,14 @@ export const nl = {
   "notFound": {
     "title": "Pagina niet gevonden",
     "description": "De pagina die u zoekt, bestaat niet of is verplaatst. Maar geen zorgen — uw financieringsproject is er wel degelijk."
+  },
+  "loanRequestDialog": {
+    "navButton": "Een aanvraag indienen",
+    "title": "Een lening aanvragen",
+    "subtitle": "Vul dit formulier in; een adviseur neemt binnen 24 uur contact met u op.",
+    "messageOptional": "(optioneel)",
+    "messagePlaceholder": "Geef meer informatie over uw project of andere nuttige gegevens...",
+    "successTitle": "Verzoek verzonden!",
+    "successDesc": "Wij hebben uw aanvraag in goede orde ontvangen. Een adviseur van Fab Finance neemt binnen 24 uur contact met u op."
   }
 };

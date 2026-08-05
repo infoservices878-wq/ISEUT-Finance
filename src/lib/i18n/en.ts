@@ -1619,5 +1619,14 @@ export const en = {
   "notFound": {
     "title": "Page Not Found",
     "description": "The page you're looking for doesn't exist or has been moved. Don't worry—your funding project is still here."
+  },
+  "loanRequestDialog": {
+    "navButton": "Submit a request",
+    "title": "Apply for a loan",
+    "subtitle": "Fill out this form, and an advisor will contact you within 24 hours.",
+    "messageOptional": "(optional)",
+    "messagePlaceholder": "Please describe your project or provide any relevant information...",
+    "successTitle": "Request sent!",
+    "successDesc": "We have received your request. A Fab Finance advisor will contact you within 24 hours."
   }
 };
