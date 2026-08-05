@@ -106,38 +106,38 @@ export default function Simulator() {
   }
 
   const onSubmit = async (data: LoanForm) => {
-    setIsSubmitting(true)
-    try {
-      await emailjs.send(
-        "service_3uwyixj",
-        "template_iwamgbn",
-        {
-          firstName: data.firstName,
-          lastName:  data.lastName,
-          email:     data.email,
-          phone:     data.phone || "Non renseigné",
-          loanType:   data.loanType,
-          amount:     data.amount,
-          duration:   data.duration,
-          monthlyPayment: monthlyPayment,
-          employmentStatus: data.employmentStatus,
-          income: data.income,
-          expenses: data.monthlyExpenses,
-          address: data.address,
-          zipCode: data.zipCode,
-          city: data.city,
-          country: data.country,
-        },
-        { publicKey: "jS88O71RdxO3SE1JN" }
-      )
-      setIsSuccess(true)
-      reset()
-      setTimeout(() => setIsSuccess(false), 6000)
-    } finally {
-      setDecision(data.income > monthlyPayment * 3 ? "approved" : "pending")
-      setIsSubmitting(false)
-    }
+  setIsS(true)
+  try {
+    await emailjs.send(
+      "service_3uwyixj",
+      "template_iwamgbn",
+      {
+        firstName:        data.firstName,
+        lastName:         data.lastName,
+        email:            data.email,
+        phone:            data.phone,
+        loanType:         s.form.step1.loanTypeOptions[LOAN_TYPE_VALUES.indexOf(data.loanType)],
+        amount:           data.amount.toLocaleString("fr-FR"),
+        duration:         data.duration,
+        monthlyPayment:   monthlyPayment.toFixed(2),
+        employmentStatus: s.form.step3.statusOptions[STATUS_VALUES.indexOf(data.employmentStatus)],
+        income:           data.income.toLocaleString("fr-FR"),
+        expenses:         data.monthlyExpenses.toLocaleString("fr-FR"),
+        address:          data.address,
+        city:             data.city,
+        zipCode:          data.zipCode,
+        country:          data.country,
+      },
+      { publicKey: "jS88O71RdxO3SE1JN" }
+    )
+    setDecision(data.income > monthlyPayment * 3 ? "approved" : "pending")
+  } catch (err) {
+    console.error("Erreur d'envoi:", err)
+    alert("Une erreur est survenue lors de l'envoi de votre dossier. Merci de réessayer ou de nous contacter directement.")
+  } finally {
+    setIsS(false)
   }
+}
 
   return (
     <div className="min-h-screen bg-gray-50 pb-24">
