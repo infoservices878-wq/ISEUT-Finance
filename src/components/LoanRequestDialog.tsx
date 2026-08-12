@@ -32,10 +32,11 @@ const selectClass =
   "w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 text-gray-900 text-sm transition-all duration-200 focus:outline-none focus:border-green-500 focus:ring-2 focus:ring-green-500/20 focus:bg-white appearance-none cursor-pointer"
 
 interface Props {
-  variant?: "desktop" | "mobile"
+  variant?: "desktop" | "mobile" | "cta"
+  label?: string
 }
 
-export default function LoanRequestDialog({ variant = "desktop" }: Props) {
+export default function LoanRequestDialog({ variant = "desktop", label }: Props) {
   const { t } = useI18n();
   const s  = t.loanRequestDialog
   const sf = t.simulator.form
@@ -95,10 +96,26 @@ export default function LoanRequestDialog({ variant = "desktop" }: Props) {
 
   return (
     <Dialog open={open} onOpenChange={setOpen}>
-      {variant === "desktop" ? (
+      {variant === "cta" ? (
         <button
           onClick={() => setOpen(true)}
-          className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-bold text-gray-700 border-2 border-gray-200 hover:border-green-300 hover:text-green-700 transition-all duration-200"
+          className="group inline-flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-white text-sm flex-shrink-0 transition-all duration-200 hover:-translate-y-0.5"
+          style={{
+            background: "linear-gradient(135deg, #16a34a 0%, #15803d 100%)",
+            boxShadow: "0 6px 20px rgba(22,163,74,0.35)",
+          }}
+        >
+          {label ?? s.navButton}
+          <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+        </button>
+      ) : variant === "desktop" ? (
+        <button
+          onClick={() => setOpen(true)}
+          className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-bold text-white transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg"
+          style={{
+            background: "linear-gradient(135deg, #16a34a 0%, #15803d 100%)",
+            boxShadow: "0 4px 14px rgba(22,163,74,0.35)",
+          }}
         >
           <FileEdit className="w-4 h-4" />
           {s.navButton}
@@ -106,7 +123,11 @@ export default function LoanRequestDialog({ variant = "desktop" }: Props) {
       ) : (
         <button
           onClick={() => setOpen(true)}
-          className="mt-2 flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl text-gray-700 font-bold text-base border-2 border-gray-200 w-full"
+          className="mt-2 flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl text-white font-bold text-base w-full transition-all"
+          style={{
+            background: "linear-gradient(135deg, #16a34a 0%, #15803d 100%)",
+            boxShadow: "0 4px 14px rgba(22,163,74,0.35)",
+          }}
         >
           <FileEdit className="w-4 h-4" />
           {s.navButton}

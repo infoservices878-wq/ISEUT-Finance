@@ -210,11 +210,7 @@ export function Navbar() {
           <LoanRequestDialog variant="desktop" />
           <Link
             href={routes.simulator}
-            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-bold text-white transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg"
-            style={{
-              background: "linear-gradient(135deg, #16a34a 0%, #15803d 100%)",
-              boxShadow: "0 4px 14px rgba(22,163,74,0.35)",
-            }}
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-bold text-gray-700 border-2 border-gray-200 hover:border-green-300 hover:text-green-700 transition-all duration-200"
           >
             {t.hero.cta1}
             <ArrowRight className="w-4 h-4" />
@@ -350,11 +346,7 @@ export function Navbar() {
               <Link
                 href={routes.simulator}
                 onClick={closeMobile}
-                className="mt-3 flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl text-white font-bold text-base transition-all"
-                style={{
-                  background: "linear-gradient(135deg, #16a34a 0%, #15803d 100%)",
-                  boxShadow: "0 4px 14px rgba(22,163,74,0.35)",
-                }}
+                className="mt-3 flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl text-gray-700 font-bold text-base border-2 border-gray-200"
               >
                 {t.hero.cta1}
                 <ArrowRight className="w-4 h-4" />

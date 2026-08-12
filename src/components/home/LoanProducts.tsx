@@ -120,12 +120,12 @@ export default function LoanProducts() {
         {/* CTA */}
         <motion.div initial={{ opacity: 0, y: 16 }} whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }} transition={{ duration: 0.5, delay: 0.3 }} className="text-center mt-12">
-          <Link href={routes.simulator}
+          {/*<Link href={routes.simulator}
             className="inline-flex items-center gap-2.5 px-8 py-3.5 rounded-xl font-bold text-white text-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg"
             style={{ background: "linear-gradient(135deg, #16a34a 0%, #15803d 100%)", boxShadow: "0 6px 20px rgba(22,163,74,0.35)" }}>
             {s.cta}
             <ArrowRight className="w-4 h-4" />
-          </Link>
+          </Link>*/}
         </motion.div>
       </div>
     </section>

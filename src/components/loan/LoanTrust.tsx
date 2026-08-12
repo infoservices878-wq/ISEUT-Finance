@@ -129,7 +129,7 @@ export default function LoanTrust() {
 
         {/* CTA */}
         <div className="text-center">
-          <Link
+          {/*<Link
             href={routes.simulator}
             className="group inline-flex items-center gap-2.5 px-7 py-3.5 rounded-xl font-bold text-white text-sm transition-all duration-200 hover:-translate-y-0.5"
             style={{
@@ -139,7 +139,7 @@ export default function LoanTrust() {
           >
             {s.cta}
             <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-          </Link>
+          </Link>*/}
         </div>
       </div>
     </motion.section>
