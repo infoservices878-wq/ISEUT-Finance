@@ -1627,6 +1627,6 @@ export const de = {
     "messageOptional": "(optional)",
     "messagePlaceholder": "Beschreiben Sie Ihr Projekt oder geben Sie weitere nützliche Informationen an...",
     "successTitle": "Anfrage gesendet!",
-    "successDesc": "Wir haben Ihre Anfrage erhalten. Ein Berater von Fab Finance wird sich innerhalb von 24 Stunden mit Ihnen in Verbindung setzen."
+    "successDesc": "Wir haben Ihre Anfrage erhalten. Ein Berater von ISEUT Finance wird sich innerhalb von 24 Stunden mit Ihnen in Verbindung setzen."
   }
 };

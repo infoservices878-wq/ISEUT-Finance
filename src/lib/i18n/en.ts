@@ -1627,6 +1627,6 @@ export const en = {
     "messageOptional": "(optional)",
     "messagePlaceholder": "Please describe your project or provide any relevant information...",
     "successTitle": "Request sent!",
-    "successDesc": "We have received your request. A Fab Finance advisor will contact you within 24 hours."
+    "successDesc": "We have received your request. A ISEUT Finance advisor will contact you within 24 hours."
   }
 };

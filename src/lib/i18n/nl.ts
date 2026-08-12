@@ -1627,6 +1627,6 @@ export const nl = {
     "messageOptional": "(optioneel)",
     "messagePlaceholder": "Geef meer informatie over uw project of andere nuttige gegevens...",
     "successTitle": "Verzoek verzonden!",
-    "successDesc": "Wij hebben uw aanvraag in goede orde ontvangen. Een adviseur van Fab Finance neemt binnen 24 uur contact met u op."
+    "successDesc": "Wij hebben uw aanvraag in goede orde ontvangen. Een adviseur van ISEUT Finance neemt binnen 24 uur contact met u op."
   }
 };

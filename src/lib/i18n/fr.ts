@@ -1183,7 +1183,7 @@ export const fr = {
     messageOptional:    "(optionnel)",
     messagePlaceholder: "Précisez votre projet ou toute information utile...",
     successTitle: "Demande envoyée !",
-    successDesc:  "Nous avons bien reçu votre demande. Un conseiller Fab Finance vous contactera sous 24h.",
+    successDesc:  "Nous avons bien reçu votre demande. Un conseiller ISEUT Finance vous contactera sous 24h.",
   },
 
   // ── Common ───────────────────────────────────────────────────────────────────
