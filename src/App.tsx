@@ -13,17 +13,19 @@ import { Footer }        from "./components/layout/Footer"
 import WhatsAppButton    from "@/components/WhatsAppButton"
 import CookieBanner      from "@/components/CookieBanner"
 
-// Pages
-import Home                     from "@/pages/Home"
-import About                    from "@/pages/About"
-import Contact                  from "@/pages/Contact"
-import Simulator                from "@/pages/Simulator"
-import HowItWorks               from "@/pages/HowItWorks"
-import Loans                    from "@/pages/Loans"
-import MentionsLegales          from "@/pages/MentionsLegales"
-import PolitiqueConfidentialite from "@/pages/PolitiqueConfidentialite"
-import CookiesPage              from "@/pages/CookiesPage"
-import NotFound                 from "@/pages/not-found"
+import { lazy, Suspense } from "react"
+
+// Pages (chargées à la demande)
+const Home                     = lazy(() => import("@/pages/Home"))
+const About                    = lazy(() => import("@/pages/About"))
+const Contact                  = lazy(() => import("@/pages/Contact"))
+const Simulator                = lazy(() => import("@/pages/Simulator"))
+const HowItWorks               = lazy(() => import("@/pages/HowItWorks"))
+const Loans                    = lazy(() => import("@/pages/Loans"))
+const MentionsLegales          = lazy(() => import("@/pages/MentionsLegales"))
+const PolitiqueConfidentialite = lazy(() => import("@/pages/PolitiqueConfidentialite"))
+const CookiesPage              = lazy(() => import("@/pages/CookiesPage"))
+const NotFound                 = lazy(() => import("@/pages/not-found"))
 
 
 
@@ -38,6 +40,7 @@ export default function App() {
             <Navbar />
 
             <main className="flex-grow">
+            <Suspense fallback={null}>
               <Switch>
 
                 {/* ── Redirect racine → /fr ── */}
@@ -132,6 +135,7 @@ export default function App() {
                 <Route component={NotFound} />
 
               </Switch>
+            </Suspense>
             </main>
 
             <Footer />
