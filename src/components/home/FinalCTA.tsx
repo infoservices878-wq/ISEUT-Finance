@@ -11,6 +11,7 @@ export default function FinalCTA() {
     <section className="relative py-20 overflow-hidden">
       <div className="absolute inset-0">
         <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=2400&auto=format&fit=crop"
+          loading="lazy"
           alt="" className="w-full h-full object-cover object-center" style={{ filter: "saturate(0.8)" }} />
         <div className="absolute inset-0 bg-gray-950/80" />
         <div className="absolute inset-0 bg-gradient-to-t from-gray-950 via-gray-950/60 to-gray-950/40" />
