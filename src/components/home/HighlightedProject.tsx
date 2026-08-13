@@ -77,6 +77,7 @@ export default function HighlightedProject() {
           <div className="relative rounded-3xl overflow-hidden aspect-[4/3] shadow-2xl flex-shrink-0">
             <AnimatePresence mode="sync" custom={dir}>
               <motion.img key={index} src={SLIDE_IMAGES[index]} alt={slide.title}
+              loading="lazy"
                 custom={dir} variants={imageVariants} initial="enter" animate="center" exit="exit"
                 transition={{ duration: 0.65, ease: [0.32, 0, 0.16, 1] }}
                 className="absolute inset-0 w-full h-full object-cover" />

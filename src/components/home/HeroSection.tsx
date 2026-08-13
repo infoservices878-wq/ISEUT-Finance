@@ -11,6 +11,7 @@ export default function HeroSection() {
     <section className="relative min-h-[92vh] flex items-center bg-gray-950 overflow-hidden">
       <div className="absolute inset-0">
         <img src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=2400"
+          fetchPriority="high"
           alt="" className="w-full h-full object-cover object-center scale-105" style={{ filter: "saturate(0.7)" }} />
         <div className="absolute inset-0 bg-gray-950/70" />
         <div className="absolute inset-0 bg-gradient-to-r from-gray-950 via-gray-950/85 to-transparent" />

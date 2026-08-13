@@ -34,6 +34,7 @@ export default function MissionSection() {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <img
                 src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?q=80&w=2000&auto=format&fit=crop"
+                loading="lazy"
                 alt="Conseiller ISEUT Finance"
                 className="w-full h-[500px] object-cover"
               />

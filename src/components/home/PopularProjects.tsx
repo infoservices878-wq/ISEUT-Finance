@@ -43,6 +43,7 @@ export default function PopularProjects() {
                   style={{ boxShadow: "0 2px 16px rgba(0,0,0,0.06)" }}>
                   <div className="relative h-40 overflow-hidden">
                     <img src={IMAGES[i]} alt={p.title}
+                    loading="lazy"
                       className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-black/10 to-transparent" />
                     <div className="absolute top-3 left-3 w-9 h-9 rounded-xl bg-white/90 backdrop-blur-sm flex items-center justify-center text-lg shadow-sm">
